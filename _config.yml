@@ -22,8 +22,7 @@ title: Blog de NFCogos
 email: contact@nfcogos.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sistema global de trazabilidad de cannabis.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.nfcogos.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nfcogos
 github_username: notsag-dev
 logo: ./images/logo.jpg
