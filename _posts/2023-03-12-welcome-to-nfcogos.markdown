@@ -27,7 +27,7 @@ Como parte de la visión de NFCogos de ofrecer una solución integral para el me
 
 ## ¡Descarga la app!
 
-Entonces, ¿quieres probarlo por ti mismo? Una versión temprana de NFCogos ya está disponible para Android y próximamente lo estará para iOS: https://play.google.com/store/apps/details?id=com.nfcogos
+Entonces, ¿quieres probarlo por ti mismo? Una versión temprana de NFCogos ya está disponible para Android y próximamente lo estará para iOS: [ver NFCogos en Google Play](https://play.google.com/store/apps/details?id=com.nfcogos)
 
 ## Contáctanos
 
