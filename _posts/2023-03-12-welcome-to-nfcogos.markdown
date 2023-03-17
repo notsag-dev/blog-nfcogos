@@ -31,4 +31,4 @@ Entonces, ¿quieres probarlo por ti mismo? Una versión temprana de NFCogos ya e
 
 ## Contáctanos
 
-Por cualquier tipo de consulta, feedback, idea o simplemente para pasar a saludar: contact@nfcogos.com, o @nfcogos en Instagram y Twitter.
+Por cualquier tipo de consulta, feedback, idea o simplemente para pasar a saludar: contact@nfcogos.com, o @nfcogos en [Instagram](https://www.instagram.com/nfcogos) y [Twitter](https://www.twitter.com/nfcogos).
