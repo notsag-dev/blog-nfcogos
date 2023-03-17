@@ -7,7 +7,7 @@ categories: posts
 
 ¡Bienvenidos a NFCogos! La única app de trazabilidad de cannabis orientada a empresas que está disponible abierta y gratuitamente.
 
-Con NFCogos, los cultivadores de cannabis tienen un mayor control sobre lotes, plantas y stock. Mediante el registro de eventos de cultivo, los cultivadores pueden tanto tener un control interno de su producción, como brindar transparencia frente a entidades reguladoras y clientes.
+Con NFCogos, los cultivadores de cannabis tienen un mayor control sobre lotes, plantas y stock. Mediante el registro de eventos de cultivo se puede tanto tener un control interno de la producción, como brindar transparencia frente a entidades reguladoras y clientes.
 
 ## Tranquilidad para el cultivador
 
