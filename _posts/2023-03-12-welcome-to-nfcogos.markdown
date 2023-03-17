@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bienvenidos a NFCogos!"
-date: 2023-03-12 08:51:56 +0700
+date: 2023-03-17 13:51:56 +0700
 categories: posts
 ---
 
