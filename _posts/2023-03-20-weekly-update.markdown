@@ -5,12 +5,10 @@ date: 2023-03-20 19:50:00 +0700
 categories: posts
 ---
 
-Buen lunes, gente!
-
-Acá vamos con la actualización semanal de NFCogos. En esta semana el trabajo se concentró en dos puntos importantes que ya se habían mencionado en la actualización de la semana pasada:
+En esta semana el trabajo se concentró en dos puntos importantes: Publicación del blog de NFCogos y adición de estadísticas generales al menú principal:
 
 - Publicación del blog! En [blog.nfcogos.com](blog.nfcogos.com) se van a ir posteando tanto estas actualizaciones como cualquier otro material que se vaya generando. Esto sirve tanto para dar un poco más de transparencia sobre el proyecto como para organizar las notas que se van acumulando sobre cosas a trabajar en el futuro cercano y algunas a más largo plazo. Este fue el post de bienvenida para estrenarlo: [bienvenida a NFCogos](https://blog.nfcogos.com/posts/2023/03/17/welcome-to-nfcogos.html).
-- Inclusión de algunos datos estadísticos básicos en la pantalla principal de la app: Cantidad de lotes, cantidad de plantas y total de desechos orgánicos acumulados. El plan es tener una sección de la app con información estadística para tener un mejor pantallazo general de lo que pasa en la app, esto se viene pronto!
+- Inclusión de algunos datos estadísticos básicos en el menú principal de la app: Cantidad de lotes, cantidad de plantas y total de desechos orgánicos acumulados. El plan es tener una sección de la app con información estadística para tener un mejor pantallazo general de lo que pasa en la app, esto se viene pronto!
 
 Para esta semana, el foco va a estar en modelar un poco mejor el stock:
 
