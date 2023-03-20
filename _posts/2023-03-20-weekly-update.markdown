@@ -19,6 +19,6 @@ Luego de completar estos cambios va a tener sentido agregar también el stock de
 
 ## Viajes en NFCogos
 
-En el lado viajes de NFCogos, ¡ya les escribo desde Siem Reap, Camboya! Hoy el día empezó temprano ya que a las 4:30 salimos para el sitio arqueológico de Angkor. Fue un día intenso, viendo el amanecer en el templo Angkor Wat, y recorriendo otros templos increibles, incluyendo uno que aparece en la película Tomb Raider con Angelina Jolie: Ta Prohm.
+En el lado viajes de NFCogos, ¡ya les escribo desde Siem Reap, Camboya! Hoy el día empezó temprano ya que a las 4:30 salimos para el sitio arqueológico de Angkor. Fue un día intenso, viendo el amanecer en el templo Angkor Wat, y recorriendo otros templos increíbles, incluyendo uno que aparece en la película Tomb Raider con Angelina Jolie: Ta Prohm.
 
 Nuestro guía, Chong, además de saber muchísimo sobre los templos, también sabe mucho sobre el pasado reciente de Camboya en el que se sufrió un genocidio que se llevó la vida de más de dos millones de personas. Él mismo estuvo separado de su familia por dos años cuando era recién nacido y fue dado por muerto e incluido en la lista de víctimas del genocidio hasta que se reencontró con su familia. ¡Piel de gallina escuchando estas historias!
