@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Actualización semanal"
+date: 2023-03-20 19:51:56 +0700
+categories: posts
+---
+
+Buen lunes, gente!
+
+Acá vamos con la actualización semanal de NFCogos. En esta semana el trabajo se concentró en dos puntos importantes que ya se habían mencionado en la actualización de la semana pasada:
+
+- Publicación del blog! En [blog.nfcogos.com](blog.nfcogos.com) se van a ir posteando tanto estas actualizaciones como cualquier otro material que se vaya generando. Esto sirve tanto para dar un poco más de transparencia sobre el proyecto como para organizar las notas que se van acumulando sobre cosas a trabajar en el futuro cercano y algunas a más largo plazo. Este fue el post de bienvenida para estrenarlo: [bienvenida a NFCogos](https://blog.nfcogos.com/posts/2023/03/17/welcome-to-nfcogos.html)
+- Inclusión de algunos datos estadísticos básicos en la pantalla principal de la app: Cantidad de lotes, cantidad de plantas y total de desechos orgánicos acumulados. El plan es tener una sección de la app con información estadística para tener un mejor pantallazo general de lo que pasa en la app, esto se viene pronto!
+
+Para esta semana, el foco va a estar en modelar un poco mejor el stock:
+
+- En este momento se puede registrar cuándo ocurre una cosecha, pero no se puede especificar cuánto es el peso de lo cosechado, y lo mismo luego de secado y curado.
+- Destrucción de desechos orgánicos: Por ahora pueden registrarse desechos y pueden eliminarse en caso de haber cometido un error al registrarlos, pero no se puede especificar cuándo los desechos son destruidos o procesados.
+
+Luego de completar estos cambios va a tener sentido agregar también el stock de flores cosechadas como dato general en el panel de estadísticas y reflejar la destrucción de desechos en el total de desechos que ya se agregó, pero vamos paso a paso.
+
+## Viajes en NFCogos
+
+En el lado viajes de NFCogos, ya les escribo desde Camboya! Hoy el día empezó tempranito, antes de las 4 de la mañana ducha, a las 4 desayuno y 4:30 salimos para el sitio arqueológico de Angkor. Fue un día intenso, viendo el amanecer en el templo Angkor Wat, y recorrimos templos increibles, incluyendo uno que aparece en la película Tomb Raider con Angelina Jolie: Ta Prohm.
