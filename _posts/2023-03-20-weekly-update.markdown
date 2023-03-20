@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actualización semanal"
-date: 2023-03-20 19:51:56 +0700
+date: 2023-03-20 19:50:00 +0700
 categories: posts
 ---
 
@@ -9,7 +9,7 @@ Buen lunes, gente!
 
 Acá vamos con la actualización semanal de NFCogos. En esta semana el trabajo se concentró en dos puntos importantes que ya se habían mencionado en la actualización de la semana pasada:
 
-- Publicación del blog! En [blog.nfcogos.com](blog.nfcogos.com) se van a ir posteando tanto estas actualizaciones como cualquier otro material que se vaya generando. Esto sirve tanto para dar un poco más de transparencia sobre el proyecto como para organizar las notas que se van acumulando sobre cosas a trabajar en el futuro cercano y algunas a más largo plazo. Este fue el post de bienvenida para estrenarlo: [bienvenida a NFCogos](https://blog.nfcogos.com/posts/2023/03/17/welcome-to-nfcogos.html)
+- Publicación del blog! En [blog.nfcogos.com](blog.nfcogos.com) se van a ir posteando tanto estas actualizaciones como cualquier otro material que se vaya generando. Esto sirve tanto para dar un poco más de transparencia sobre el proyecto como para organizar las notas que se van acumulando sobre cosas a trabajar en el futuro cercano y algunas a más largo plazo. Este fue el post de bienvenida para estrenarlo: [bienvenida a NFCogos](https://blog.nfcogos.com/posts/2023/03/17/welcome-to-nfcogos.html).
 - Inclusión de algunos datos estadísticos básicos en la pantalla principal de la app: Cantidad de lotes, cantidad de plantas y total de desechos orgánicos acumulados. El plan es tener una sección de la app con información estadística para tener un mejor pantallazo general de lo que pasa en la app, esto se viene pronto!
 
 Para esta semana, el foco va a estar en modelar un poco mejor el stock:
@@ -21,4 +21,4 @@ Luego de completar estos cambios va a tener sentido agregar también el stock de
 
 ## Viajes en NFCogos
 
-En el lado viajes de NFCogos, ya les escribo desde Camboya! Hoy el día empezó tempranito, antes de las 4 de la mañana ducha, a las 4 desayuno y 4:30 salimos para el sitio arqueológico de Angkor. Fue un día intenso, viendo el amanecer en el templo Angkor Wat, y recorrimos templos increibles, incluyendo uno que aparece en la película Tomb Raider con Angelina Jolie: Ta Prohm.
+En el lado viajes de NFCogos, ya les escribo desde Camboya! Hoy el día empezó tempranito ya que a las 4:30 salimos para el sitio arqueológico de Angkor. Fue un día intenso, viendo el amanecer en el templo Angkor Wat, y recorriendo otros templos increibles, incluyendo uno que aparece en la película Tomb Raider con Angelina Jolie: Ta Prohm. Nuestro guía, Chong, además de saber muchísimo sobre los templos incluyendo muchas fechas exactas (un enfermo!) también sabe mucho sobre el pasado reciente de Camboya en el que se sufrió un genocidio en el que murieron más de dos millones de personas. Él mismo estuvo separado de su familia por dos años cuando era recién nacido y fue dado por muerto e incluido en la lista de víctimas del genocidio. Piel de gallina escuchando estas historias!
