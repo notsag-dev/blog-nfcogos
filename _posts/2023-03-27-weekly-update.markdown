@@ -36,7 +36,7 @@ Independientemente de la estrategia que el cultivador elija, ahora podrá realiz
 
 Con respecto al registro de stock, se comenzó a trabajar en el registro de peso de materia verde o flores al cambiar de una fase a la otra empezando por la cosecha.
 
-Luego de la cosecha, casi todos los cambios de fase cambian el peso total de materia verde o flores en stock. Al cosechar puede registrarse por primera vez el peso de lo cosechado. Al secar la cosecha el peso de la materia verde se reduce en un 75% aproximadamente. Otros procesos como el trimming húmedo o seco también reducen considerablemente el volumen de materia verde.
+Luego de la cosecha, casi todos los cambios de fase cambian el peso total de materia verde o flores en stock. Al cosechar puede registrarse por primera vez el peso de lo cosechado. Luego, al secar la cosecha, el peso de la materia verde se reduce en un 75% aproximadamente. Otros procesos como el trimming húmedo o seco también reducen considerablemente el volumen de materia verde.
 
 El registro fase a fase del peso total de un lote sirve en caso de inspección y para control interno. También será útil cuando se agreguen otras formas de visualización de datos en un futuro muy cercano. De hecho, ya se está trabajando en la adición de una página de estadísticas o insights para contar con una visión más general de la evolución del inventario.
 
