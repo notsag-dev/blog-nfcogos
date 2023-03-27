@@ -16,6 +16,7 @@ Hasta el momento, las fases por las que puede pasar un lote en la app son las si
 - Vegetación
 - Floración
 - Cosecha
+- Secado
 - Curación
 - Empaquetado
 
@@ -45,4 +46,4 @@ Esta semana se van a redondear estos cambios que requieren de una inversión con
 
 ## Viajes en NFCogos
 
-Esta semana les escribo también desde Camboya, en una pequeña isla de pescadores al sur llamada Koh Rong Samloem, donde viven poco más de 500 personas. Un pequeño paraíso, sin wifi ni grandes lujospero de una autenticidad emocionante y rodeado de gente hermosa y humilde. ¡Mejor setup imposible!
+Esta semana les escribo también desde Camboya, en una pequeña isla de pescadores al sur llamada Koh Rong Samloem, donde viven poco más de 500 personas. Un pequeño paraíso, sin wifi ni grandes lujos pero de una autenticidad emocionante y rodeado de gente hermosa y humilde. ¡Mejor entorno para que el proyecto florezca, imposible!
