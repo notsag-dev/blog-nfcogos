@@ -30,7 +30,7 @@ El trimming húmedo consiste en la manicura de plantas luego de la cosecha y pre
 
 El trimming seco ocurre luego del secado. Esto favorece un secado más largo y uniforme, aunque requiere más tiempo para realizarse ya que las hojas secas quedan más acopladas al cogollo a diferencia del trimming húmedo donde son más maleables.
 
-Independientemente de la estrategia que el cultivador elija, ahora podrá realizarse un seguimiento más cercano a la realidad de todo cultivo pudiendo especificar cuándo el lote está en fase de trimming húmedo o seco.
+Independientemente de la estrategia que el cultivador elija, ahora podrá realizarse un seguimiento más cercano a la realidad a través de la app, pudiendo especificar cuándo el lote está en fase de trimming húmedo o seco.
 
 ## Registro de stock
 
