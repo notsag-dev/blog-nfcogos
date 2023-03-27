@@ -5,7 +5,7 @@ date: 2023-03-27 12:00:00 +0700
 categories: posts
 ---
 
-Esta semana el trabajo se concentró en la revisión de los estados por los que pasa un lote de plantas durante su cultivo, además de dar la posibilidad poco a poco de que las empresas puedan tener un registro de su stock. Estas características todavía están en construcción y estarán disponibles durante esta semana en una nueva versión de la app.
+Esta semana el trabajo se concentró en la revisión de las fases por los que pasa un lote de plantas durante todo su proceso, además de dar la posibilidad poco a poco de que las empresas puedan tener un registro de la evolución de su stock de materia verde y flores. Estas características todavía están en construcción y estarán disponibles durante esta semana en una nueva versión de la app.
 
 ## Cambios en las fases de cultivo: Adición de trimming húmedo y seco
 
@@ -37,8 +37,12 @@ Con respecto al registro de stock, se comenzó a trabajar en el registro de peso
 
 Luego de la cosecha, casi todos los cambios de fase cambian el peso total de materia verde o flores en stock. Al cosechar puede registrarse por primera vez el peso de lo cosechado. Al secar la cosecha el peso de la materia verde se reduce en un 75% aproximadamente. Otros procesos como el trimming húmedo o seco también reducen considerablemente el volumen de materia verde.
 
-El registro fase a fase de peso total de un lote sirve en caso de inspección y para control interno. También será útil cuando se agreguen otras formas de visualización de datos en un futuro muy cercano. De hecho ya se está trabajando en la adición de una página de estadísticas o insights para contar con una visión más general de la evolución del inventario.
+El registro fase a fase de peso total de un lote sirve en caso de inspección y para control interno. También será útil cuando se agreguen otras formas de visualización de datos en un futuro muy cercano. De hecho, ya se está trabajando en la adición de una página de estadísticas o insights para contar con una visión más general de la evolución del inventario.
 
 ## Trabajo para esta semana
 
-Esta semana se va a continuar con estos cambios que requieren de una inversión considerable de tiempo que está pasando a NFCogos de una herramienta de prueba a una más usable a nivel profesional, así que pronto se viene un lanzamiento oficial de la app!
+Esta semana se van a redondear estos cambios que requieren de una inversión considerable de tiempo pero que valen mucho la pena ya que se está pasando a NFCogos de una herramienta de prueba a una más usable a nivel profesional, así que pronto se viene un lanzamiento oficial de la app!
+
+## Viajes en NFCogos
+
+Esta semana les escribo también desde Camboya, en una pequeña isla de pescadores al sur llamada Koh Rong Samloem, donde viven poco más de 500 personas. Un pequeño paraíso, sin wifi ni grandes lujospero de una autenticidad emocionante y rodeado de gente hermosa y humilde. ¡Mejor setup imposible!
