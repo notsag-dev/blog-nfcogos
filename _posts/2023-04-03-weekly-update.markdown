@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Construcción de la página de insights"
+title: "Actualización semanal: Trimming, stock y visualización de datos"
 date: 2023-04-03 12:00:00 +0700
 categories: posts
 ---
@@ -13,11 +13,11 @@ Recuerden que pueden descargar una versión temprana de la app para Android desd
 
 ## Trabajo para esta semana
 
-Actualmente se está trabajando la visualización de información desde una página de insights o estadísticas. Esto tiene mucho sentido en este momento ya que contamos con suficiente información general sobre la organización como para poder visualizarla mediante gráficos y cifras totales para tener un mejor pantallazo global. Algunos datos interesantes a mostrar son:
+Actualmente se está trabajando en la visualización de información desde una página de insights o estadísticas. Esto tiene mucho sentido en este momento ya que contamos con suficiente información general sobre la organización como para poder visualizarla mediante gráficos y cifras totales para tener un mejor pantallazo global. Algunos datos interesantes a mostrar son:
 
 - Cantidad total de plantas y lotes (ya está disponible desde el menú principal).
 - Cantidad de plantas que hay en cada fase de cultivo: vegetando, florando, cosechando, etc.
-- Peso total de materia verde que está siendo secada, trimmeada, o de flores que están siendo curadas o empaquetadas.
+- Peso total de materia verde que está siendo secada o trimmeada, o de flores que están siendo curadas o empaquetadas.
 - Cantidad de desechos acumulados que no se han destruido.
 
 A esto se le van a ir agregando datos a medida que tenga sentido, pero contar con una página de estadísticas es algo que hace tiempo se venía haciendo desear y finalmente se está llegando a esa etapa.
@@ -30,4 +30,8 @@ La visión de largo plazo de NFCogos es crear un ecosistema de aplicaciones que 
 
 Les escribo recién llegado a un nuevo punto del sur de Camboya: Koh Rong. Un poco más movido y con un poco más estructura que Koh Rong Samloem, pero aún pequeño y con paisajes similares.
 
-Ya pasada la mitad de la estadía en Camboya y con menos de dos semanas restantes, hay que ir pensando en aplicar para la visa de Vietnam.
+Ya pasada la mitad de la estadía en Camboya y con menos de dos semanas restantes, hay que ir pensando en aplicar para la visa de Vietnam porque suele demorar.
+
+_what are we fighting for?
+Don't ask me I don't give a damn,
+The next stop is Vietnam_
