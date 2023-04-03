@@ -28,7 +28,7 @@ La nueva app (o sitio web, o ambos) va a ser utilizada tanto por empresas de cul
 
 ## Viajes en NFCogos
 
-Les escribo recién llegado a un nuevo punto del sur de Camboya: Koh Rong. Un poco más movido y con un poco más estructura que Koh Rong Samloem, pero aún pequeño y con paisajes similares.
+Les escribo recién llegado a un nuevo punto del sur de Camboya: Koh Rong. Un poco más movido y con un poco más infrastructura que Koh Rong Samloem, pero aún pequeño y con paisajes similares.
 
 Ya pasada la mitad de la estadía en Camboya y con menos de dos semanas restantes, hay que ir pensando en aplicar para la visa de Vietnam porque suele demorar.
 
