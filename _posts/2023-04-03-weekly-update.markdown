@@ -7,9 +7,7 @@ categories: posts
 
 Esta semana se publicó una nueva versión de la app con algunas funcionalidades que se habían comenzado la semana anterior: agregado de trimming húmedo y seco como nuevas fases de producción, y registro de stock de materia verde y flores. También se avanzó en la visualización de esta información desde una nueva página de insights.
 
-Más información sobre trimming húmedo y seco en la [actualización de la semana pasada](https://blog.nfcogos.com/posts/2023/03/27/weekly-update.html).
-
-Recuerden que pueden descargar una versión temprana de la app para Android desde [Google Play](https://play.google.com/store/apps/details?id=com.nfcogos).
+Más información sobre trimming húmedo y seco en la [actualización de la semana pasada](https://blog.nfcogos.com/posts/2023/03/27/weekly-update.html). Y recuerden que pueden descargar una versión temprana de la app para Android desde [Google Play](https://play.google.com/store/apps/details?id=com.nfcogos).
 
 ## Trabajo para esta semana
 
