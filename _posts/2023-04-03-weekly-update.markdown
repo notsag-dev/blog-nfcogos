@@ -34,8 +34,4 @@ Les escribo recién llegado a un nuevo punto del sur de Camboya: Koh Rong. Un po
 
 Ya pasada la mitad de la estadía en Camboya y con menos de dos semanas restantes, hay que ir pensando en aplicar para la visa de Vietnam porque suele demorar.
 
-_What are we fighting for?_
-
-_Don't ask me I don't give a damn,_
-
-_the next stop is Vietnam_
+_What are we fighting for? Don't ask me I don't give a damn, the next stop is Vietnam_
