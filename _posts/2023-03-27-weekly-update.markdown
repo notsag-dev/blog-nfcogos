@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal"
+title: "Actualización semanal: Revisión de las fases de cultivo y control de stock"
 date: 2023-03-27 12:00:00 +0700
 categories: posts
 ---

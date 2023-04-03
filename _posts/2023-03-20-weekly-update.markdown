@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal"
+title: "Actualización semanal: Nuevo blog y agregado de estadísticas generales a la app"
 date: 2023-03-20 19:50:00 +0700
 categories: posts
 ---

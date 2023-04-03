@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal"
+title: "Actualización semanal: Construcción de la página de insights"
 date: 2023-04-03 12:00:00 +0700
 categories: posts
 ---
