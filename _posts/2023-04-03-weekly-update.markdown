@@ -7,9 +7,9 @@ categories: posts
 
 Esta semana se publicó una nueva versión de la app con algunas funcionalidades que se habían comenzado la semana anterior: agregado de trimming húmedo y seco como nuevas fases de producción, y registro de stock de materia verde y flores. También se avanzó en la visualización de esta información desde una nueva página de insights.
 
-Recuerden que pueden descargar una versión temprana de la app para Android desde [Google Play](https://play.google.com/store/apps/details?id=com.nfcogos)
-
 Más información sobre trimming húmedo y seco en la [actualización de la semana pasada](https://blog.nfcogos.com/posts/2023/03/27/weekly-update.html).
+
+Recuerden que pueden descargar una versión temprana de la app para Android desde [Google Play](https://play.google.com/store/apps/details?id=com.nfcogos).
 
 ## Trabajo para esta semana
 
@@ -20,11 +20,11 @@ Actualmente se está trabajando la visualización de información desde una pág
 - Peso total de materia verde que está siendo secada, trimmeada, o de flores que están siendo curadas o empaquetadas.
 - Cantidad de desechos acumulados que no se han destruido.
 
-A esto se le van a ir agregando datos a medida que tenga sentido, pero contar con una página de estadísticas es algo que hace tiempo se venía haciendo desear y finalmente se está llegando a esa etapa! Esta semana se va a publicar una primera versión con los avances.
+A esto se le van a ir agregando datos a medida que tenga sentido, pero contar con una página de estadísticas es algo que hace tiempo se venía haciendo desear y finalmente se está llegando a esa etapa.
 
 ## Trabajo futuro: Visión a largo plazo
 
-La visión de largo plazo de NFCogos es crear un ecosistema de aplicaciones que interactúen entre sí para brindar una solución integral para cultivadores y consumidores. Entonces, luego de que la app de trazabilidad de NFCogos esté un poco más estable, va a ser momento de lanzarla oficialmente y también de empezar a trabajar en la próxima app del ecosistema. Esta nueva app (o sitio web, o ambos) va a ser utilizada tanto por empresas de cultivo y autocultivadores como por consumidores, y se espera tener una primera versión antes de fin de año. Más info próximamente!
+La visión de largo plazo de NFCogos es crear un ecosistema de aplicaciones que interactúen entre sí para brindar una solución integral para cultivadores y consumidores. Entonces, luego de que la app de trazabilidad de NFCogos esté un poco más estable, va a ser momento de lanzarla oficialmente y también de empezar a trabajar en la próxima app del ecosistema. Esta nueva app (o sitio web, o ambos) va a ser utilizada tanto por empresas de cultivo y autocultivadores como por consumidores, y se espera tener una primera versión antes de fin de año. ¡Más info próximamente!
 
 ## Viajes en NFCogos
 
