@@ -24,7 +24,9 @@ A esto se le van a ir agregando datos a medida que tenga sentido, pero contar co
 
 ## Trabajo futuro: Visión a largo plazo
 
-La visión de largo plazo de NFCogos es crear un ecosistema de aplicaciones que interactúen entre sí para brindar una solución integral para cultivadores y consumidores. Entonces, luego de que la app de trazabilidad de NFCogos esté un poco más estable, va a ser momento de lanzarla oficialmente y también de empezar a trabajar en la próxima app del ecosistema. Esta nueva app (o sitio web, o ambos) va a ser utilizada tanto por empresas de cultivo y autocultivadores como por consumidores, y se espera tener una primera versión antes de fin de año. ¡Más info próximamente!
+La visión de largo plazo de NFCogos es crear un ecosistema de aplicaciones que interactúen entre sí para brindar una solución integral para cultivadores y consumidores. Entonces, luego de que la app de trazabilidad de NFCogos esté un poco más estable, va a ser momento de lanzarla oficialmente y también de empezar a trabajar en la próxima app del ecosistema.
+
+La nueva app (o sitio web, o ambos) va a ser utilizada tanto por empresas de cultivo y autocultivadores como por consumidores, y se espera tener una primera versión antes de fin de año. ¡Más info próximamente!
 
 ## Viajes en NFCogos
 
