@@ -5,7 +5,7 @@ date: 2023-04-10 12:00:00 +0700
 categories: posts
 ---
 
-Esta semana el trabajo se concentró en la visualización de información en una nueva sección de la app que ya está disponible para su descarga desde Google Play. También se avanzó en el análisis primario de una nueva app del ecosistema de [Google Play](https://play.google.com/store/apps/details?id=com.nfcogos).
+Esta semana el trabajo se concentró en la visualización de información en una nueva sección de la app que ya está disponible para su descarga desde [Google Play](https://play.google.com/store/apps/details?id=com.nfcogos). También se avanzó en el análisis primario de una nueva app del ecosistema de NFCogos.
 
 ## Visualización de datos
 
@@ -19,8 +19,8 @@ NFCogos no será solo una aplicación de trazabilidad, sino que será un ecosist
 
 La siguiente aplicación de este ecosistema será un marketplace interconectado con el sistema de trazabilidad, que permitirá a los productores vender flores o derivados, dependiendo de la regulación de cada país, con su correspondiente información de trazabilidad.
 
-En cuestión de semanas se comenzará con el desarrollo de la misma, pero queda hecho el anuncio!
+En cuestión de semanas se comenzará con el desarrollo de la misma, ¡queda hecho el anuncio!
 
 ## Viajes en NFCogos
 
-Esta semana toca escribir la actualización en un bus camino a Phnom Penh, la capital de Camboya. Van quedando muy pocos días de aventura en este hermoso país que tantos momentos memorables viene dejando en menos de un mes, un éxito!
+Esta semana toca escribir la actualización en un bus camino a Phnom Penh, la capital de Camboya. Van quedando muy pocos días de aventura en este hermoso país que tantos momentos memorables viene dejando en menos de un mes, ¡un éxito!
