@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Visualización de datos y creación de una nueva app"
+title: "Actualización semanal: Accessibilidad y estabilización"
 date: 2023-04-17 12:00:00 +0700
 categories: posts
 ---
