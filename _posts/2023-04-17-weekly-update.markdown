@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Actualización semanal: Accessibilidad y estabilización"
+title: "Actualización semanal: Integración, accessibilidad y estabilización"
 date: 2023-04-17 12:00:00 +0700
 categories: posts
 ---
 
-El trabajo de esta semana estuvo relacionado a la mejora en la sección de datos y la corrección de pequeños bugs. En la sección de datos se agregó la copia de datos con formato para pegar en planillas Excel/Google sheets, incluyendo la creación de una [demo en la página de instagram](https://www.instagram.com/p/Cq7aBVLBi-i/), y se cambiaron los gráficos para mejorar su accesibilidad para personas con anomalías en la visión del color.
+El trabajo de esta semana estuvo relacionado a la mejora en la sección de datos y la corrección de pequeños bugs. En la sección de datos se agregó la integración con planillas de Google/Excel mediante la copia de datos con formato compatible, incluyendo la creación de una [demo en la página de instagram](https://www.instagram.com/p/Cq7aBVLBi-i/), y se cambiaron los gráficos para mejorar su accesibilidad para personas con anomalías en la visión del color.
 
 ## Agradecimientos y trabajo futuro
 
@@ -21,9 +21,15 @@ El cierre de la estadía en Camboya, en su capital, Phnom Penh, fue increíble y
 Y ya les escribo desde Ho Chi Minh, en Vietnam! Es la ciudad más poblada del país con alrededor de 9 millones de personas. Vibrante, con muchas opciones gastronómicas, culturales y de intensa vida nocturna, es algo para ver. Es cierto que el tráfico puede ser un poco abrumador, hay demasiadas motos y algo tan simple como cruzar la calle puede ser intimidante, pero es también una parada obligatoria y un tradicional punto de partida en este país. Let's go, Saigon!
 
 > From Viet Bac to the Saigon Delta
+
 > From the mountains and the plains below
+
 > Young and old workers, peasants and the toiling tenant farmers
+
 > Fight for freedom with Uncle Ho
+
 > Ho, Ho, Ho Chi Minh
+
 > Ho, Ho, Ho Chi Minh
-> The Ballad of Ho Chi Minh - Ewan MacColl
+
+The Ballad of Ho Chi Minh - Ewan MacColl
