@@ -9,7 +9,7 @@ Esta semana el trabajo se concentró en la visualización de información en una
 
 ## Visualización de datos
 
-Esta semana se introdujo una nueva sección a la app con estadísticas o insights de datos que permiten visualizar información general de la cuenta. A través de la misma pueden verse la cantidad total de lotes y plantas que se han creado, así como cantidad de plantas por fase de cultivo, y cantidad de materia verde por cada fase luego de la cosecha (solo para lotes por ahora, no para plantas individuales)
+Esta semana se introdujo una nueva sección a la app con estadísticas o insights de datos que permiten visualizar información general de la cuenta. A través de la misma pueden verse la cantidad total de lotes y plantas que se han creado, así como cantidad de plantas por fase de cultivo, y cantidad de materia verde por cada fase luego de la cosecha (solo para lotes por ahora, no para plantas individuales).
 
 Se prevé como pasos futuros la adición de más gráficos para ver y analizar la evolución de la producción en el tiempo, y la integración con Google sheets para hacerle la vida más fácil a quienes actualmente utilizan hojas de cálculo como método de registro de sus cultivos.
 
