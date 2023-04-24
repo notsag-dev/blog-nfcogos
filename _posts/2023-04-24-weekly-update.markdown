@@ -9,7 +9,7 @@ Esta semana el foco estuvo principalmente en la liberación de una versión beta
 
 ## App para iOS
 
-¡Finalmente vamos a tener app para iOS! Este era un gran debe ya que no nos podemos dar el lujo de dejar fuera de NFCogos a la mitad de la población. El proceso de publicar una app en el App Store de iOS tiene un poco más de fricción que el de Google Play para Android. En particular, los controles de calidad son más estrictos y además se necesitan al menos una Mac y un iPhone para desarrollar este tipo de apps. En el tema hardware solo faltaba el iPhone y eso quedó solucionado así que ya estamos iterando la aplicación para que sea aceptada en el App Store, si todo sale bien pronto quedará lista para su descarga.
+¡Finalmente vamos a tener app para iOS! Este era un gran debe ya que no nos podemos dejar fuera de NFCogos a la mitad de la población. El proceso de publicar una app en el App Store de iOS tiene un poco más de fricción que el de Google Play para Android. En particular, los controles de calidad son más estrictos y además se necesitan al menos una Mac y un iPhone para desarrollar este tipo de apps. En el tema hardware solo faltaba el iPhone y eso quedó solucionado así que ya estamos iterando la aplicación para que sea aceptada en el App Store, si todo sale bien pronto quedará lista para su descarga.
 
 ## Productividad
 
