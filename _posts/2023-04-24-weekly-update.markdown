@@ -9,15 +9,15 @@ Esta semana el foco estuvo principalmente en la liberación de una versión beta
 
 ## App para iOS
 
-¡Finalmente vamos a tener app para iOS! Este era un gran debe ya que no nos podemos dar el lujo de dejar fuera de NFCogos a la mitad de la población. El proceso de publicar una app en el App Store de iOS tiene un poco más de fricción que el de Google Play para Android. En particular, los controles de calidad son más estrictos y además se necesitan al menos una Mac y un iPhone para desarrollar este tipo de apps. En tema hardware solo faltaba el iPhone y eso quedó solucionado así que ya estamos iterando la aplicación para que sea aceptada en el App Store, si todo sale bien pronto quedará lista para su descarga.
+¡Finalmente vamos a tener app para iOS! Este era un gran debe ya que no nos podemos dar el lujo de dejar fuera de NFCogos a la mitad de la población. El proceso de publicar una app en el App Store de iOS tiene un poco más de fricción que el de Google Play para Android. En particular, los controles de calidad son más estrictos y además se necesitan al menos una Mac y un iPhone para desarrollar este tipo de apps. En el tema hardware solo faltaba el iPhone y eso quedó solucionado así que ya estamos iterando la aplicación para que sea aceptada en el App Store, si todo sale bien pronto quedará lista para su descarga.
 
 ## Productividad
 
-En el lado de la productividad de la app, se comenzó con la exploración de cómo facilitar la reaplicación de fertilizaciones y tratamientos sin tener que añadir toda la información nuevamente. Esto es muy importante ya que, por ejemplo, si se aplica un fertilizante una vez, lo más seguro es que se aplique nuevamente y en condiciones/proporciones idénticas o casi idénticas. Poder reutilizar esta información es crucial para para un uso más práctico de la app.
+En el lado de la productividad, se comenzó con la exploración de cómo facilitar la reaplicación de fertilizaciones y tratamientos sin tener que añadir toda la información nuevamente. Esto es muy importante ya que, por ejemplo, si se aplica un fertilizante una vez, lo más seguro es que se aplique nuevamente y en condiciones/proporciones idénticas o casi idénticas. Poder reutilizar esta información es crucial para para un uso más práctico de la app.
 
 ## Trabajo futuro
 
-Ambas tareas mencionadas, la publicación en el App Store y el aumento de la productividad de la app, están en curso y estos mismos objetivos siguen presentes para esta semana. La publicación oficial de la app ya se ve a la vuelta de la esquina, y con esto habrá que ponerse la capa de marketer y salir a buscar usuarios más intensamente. Se vienen tiempos interesantes de aprendizaje, tiempos de salir de la zona de confort del software y estamos listos y con muchas ganas de encarar esta etapa!
+Ambas tareas mencionadas, la publicación en el App Store y el aumento de la productividad de la app, están en curso y estos mismos objetivos siguen presentes para esta semana. La publicación oficial de la app ya se ve a la vuelta de la esquina, y con esto habrá que ponerse la capa de marketer y salir a buscar usuarios más intensamente. Se vienen tiempos interesantes de aprendizaje y estamos listos y con muchas ganas de encarar esta etapa.
 
 ## Viajes en NFCogos
 
