@@ -13,7 +13,7 @@ Esta semana el foco estuvo principalmente en la liberación de una versión beta
 
 ## Productividad
 
-En el lado de la productividad, se comenzó con la exploración de cómo facilitar la reaplicación de fertilizaciones y tratamientos sin tener que añadir toda la información nuevamente. Esto es muy importante ya que, por ejemplo, si se aplica un fertilizante una vez, lo más seguro es que se aplique nuevamente y en condiciones/proporciones idénticas o casi idénticas. Poder reutilizar esta información es crucial para para un uso más práctico de la app.
+En el lado de la productividad, se comenzó con la exploración de cómo facilitar la reaplicación de fertilizaciones y tratamientos sin tener que añadir toda la información nuevamente. Esto es muy importante ya que, por ejemplo, si se aplica un fertilizante una vez, lo más seguro es que se aplique nuevamente y en condiciones/proporciones idénticas o casi idénticas. Poder reutilizar esta información es crucial para un uso más práctico de la app.
 
 ## Trabajo futuro
 
@@ -23,4 +23,4 @@ Ambas tareas mencionadas, la publicación en el App Store y el aumento de la pro
 
 La estadía en Vietnam viene siendo muy enriquecedora. Las visitas en Ho Chi Minh a los túneles de Cu Chi y al museo de la guerra te dejan reflexionando sobre las penurias causadas por una agresión tan dispar, y la determinación en la resistencia vietnamita es tan inspiradora como emocionante.
 
-Ahora les escribo desde un pequeño restaurante local en la capital, Hanoi, ubicada al norte del país, haciendo tiempo antes de un viaje en tren a Ninh Binh. El paisaje de las afueras de Ninh Binh será de naturaleza, arrollos y montañas, contrastando con lo visto en Vietnam hasta ahora: las dos ciudades más grandes del país, hordas de motos que se trepan a las veredas, y callejones abarrotados de gente trabajando y comiendo, y de olores a especias y demás que no pasan desapercibidos para narices occidentales.
+Ahora les escribo desde un pequeño restaurante local en la capital, Hanoi, ubicada al norte del país, haciendo tiempo antes de un viaje en tren a Ninh Binh. El paisaje de las afueras de Ninh Binh será de naturaleza, arroyos y montañas, contrastando con lo visto en Vietnam hasta ahora: las dos ciudades más grandes del país, hordas de motos que se trepan a las veredas, y callejones abarrotados de gente trabajando y comiendo, y de olores a especias y demás que no pasan desapercibidos para narices occidentales.
