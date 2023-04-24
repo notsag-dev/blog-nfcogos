@@ -5,7 +5,7 @@ date: 2023-04-24 12:00:00 +0700
 categories: posts
 ---
 
-Esta semana el foco estuvo principalmente en la liberación de una versión beta de la app para iOS (iPhone, iPad). También se comenzó a trabajar en funcionalidades para aumentar la productividad en el uso de la app.
+Esta semana el foco estuvo en la liberación de una versión beta de la app para iOS (iPhone, iPad). También se comenzó a trabajar en funcionalidades para aumentar la productividad en el uso de la app.
 
 ## App para iOS
 
@@ -23,4 +23,4 @@ Ambas tareas mencionadas, la publicación en el App Store y el aumento de la pro
 
 La estadía en Vietnam viene siendo muy enriquecedora. Las visitas en Ho Chi Minh a los túneles de Cu Chi y al museo de la guerra te dejan reflexionando sobre las penurias causadas por una agresión tan dispar, y la determinación en la resistencia vietnamita es tan inspiradora como emocionante.
 
-Ahora les escribo desde un pequeño restaurante local en la capital, Hanoi, ubicada al norte del país, haciendo tiempo antes de un viaje en tren a Ninh Binh. El paisaje de las afueras de Ninh Binh será de naturaleza, arroyos y montañas, contrastando con lo visto en Vietnam hasta ahora: las dos ciudades más grandes del país, hordas de motos que se trepan a las veredas, y callejones abarrotados de gente trabajando y comiendo, y de olores a especias y demás que no pasan desapercibidos para narices occidentales.
+Ahora les escribo desde un pequeño restaurante local en la capital, Hanoi, ubicada al norte del país, haciendo tiempo antes de un viaje en tren a Ninh Binh. El paisaje de las afueras de Ninh Binh será de naturaleza, río y montaña, contrastando con lo visto en Vietnam hasta ahora: las dos ciudades más grandes del país, hordas de motos que se trepan a las veredas, y callejones abarrotados de gente trabajando y comiendo, y de olores a especias y demás que no pasan desapercibidos para narices occidentales.
