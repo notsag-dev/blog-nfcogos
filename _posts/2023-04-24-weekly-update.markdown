@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actualización semanal: Se viene la app de iPhone"
-date: 2023-04-17 12:00:00 +0700
+date: 2023-04-24 12:00:00 +0700
 categories: posts
 ---
 
