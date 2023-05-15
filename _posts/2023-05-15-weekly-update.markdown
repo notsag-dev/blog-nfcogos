@@ -15,6 +15,6 @@ Lo ideal es que los usuarios que ofrezcan su catálogo también estén haciendo 
 
 ## Viajes en NFCogos
 
-Les escribo desde Kuala Lumpur, Malasia. Esta ciudad es más futurista de lo que esperaba. Las torres Petronas son una locura, no parecen reales ni mirándolas en persona, principalmente por la noche. Por otra parte, a pesar de compartir frontera con Tailandia, el contraste en cuanto a políticas de cannabis es gigante. La pena por vender es la muerte y por consumir pueden ser años de cárcel. Lo mismo por tener una solo planta.
+Les escribo desde Kuala Lumpur, Malasia. Esta ciudad es más futurista de lo que esperaba. Las torres Petronas son una locura, no parecen reales ni mirándolas en persona, principalmente por la noche. Por otra parte, a pesar de compartir frontera con Tailandia, el contraste en cuanto a políticas de cannabis es gigante. La pena por vender es la muerte y por consumir pueden ser años de cárcel. Lo mismo por tener una sola planta.
 
 Más allá de eso, la primera impresión fue bastante buena así que tendremos que descubrir más sobre esta cultura intrigante, las grandes ciudades generalmente no son representativas de la vida en el resto del país, así que pronto estaremos conociendo ciudades y pueblos más auténticos, allá vamos!
