@@ -5,7 +5,7 @@ date: 2023-05-15 12:00:00 +0700
 categories: posts
 ---
 
-Hoy es un día especial para NFCogos, es la publicación oficial de la app. Finalmente, la app fue aprobada para su publicación en el App Store de iPhone, y también se está pasando la app de Android de versión de prueba a producción. Así que ahora sí: Hola mundo!
+Hoy es un día especial para NFCogos, es la publicación oficial de la app. Finalmente, la app fue aprobada para su publicación en el App Store de iPhone, y también se está pasando la app de Android de versión de prueba a producción. Así que ahora sí: ¡Hola mundo!
 
 Ha sido más de medio año de mucho trabajo así que hoy se siente bien. Es cierto, todavía hay mucho que hacer, muchas ideas en las que todavía no se pudo trabajar, pero se vienen cosas buenísimas para el resto del año. Y antes de adentrarnos en los planes a futuro quiero agradecer a quienes se tomaron un momento para descargar y probar la app cuando estaba en etapa de prueba. Esto ayudó muchísimo a detectar bugs y cosas a mejorar, a crear un mejor producto, ahí van mis infinitas gracias.
 
@@ -25,4 +25,4 @@ En cuanto a la información de trazabilidad misma, se va a agregar almacenamient
 
 ## Viajes en NFCogos
 
-Les escribo desde la isla Tioman, en la costa este de Malasia. Es una isla muy tranquila, con corales y peces, con locales amables y precios accesibles, no hay cannabis pero al menos ahora tenemos yerba, y cómo se aprecia un matecito después de tanto tiempo! No les extrañe si la semana que viene también les escribo desde acá, la atmósfera está a punto, ideal para encontrar un balance entre trabajo, naturaleza y descanso. Les escribo pronto!
+Les escribo desde la isla Tioman, en la costa este de Malasia. Es una isla muy tranquila, con corales y peces, con locales amables y precios accesibles, no hay cannabis pero al menos ahora tenemos yerba, y cómo se aprecia un matecito después de tanto tiempo! No les extrañe si la semana que viene también les escribo desde acá, la atmósfera está a punto, ideal para encontrar un balance entre trabajo, naturaleza y descanso. Les escribo pronto.
