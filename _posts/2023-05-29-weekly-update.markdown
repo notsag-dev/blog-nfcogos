@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actualización semanal: Productos y contactos"
-date: 2023-05-29 12:00:00 +0700
+date: 2023-05-29 09:00:00 +0700
 categories: posts
 ---
 
