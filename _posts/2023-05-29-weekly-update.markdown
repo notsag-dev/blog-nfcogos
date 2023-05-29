@@ -13,9 +13,9 @@ Ya no es solo sobre construir la app. Ahora también es muy importante hablar co
 
 ## Catálogo de productos y marketplace
 
-a construcción del catálogo de productos va a llevar tiempo. La habilidad de construir un catálogo en sí misma no tiene sentido si no se construye también una forma para los clientes de acceder a ese catálogo, de buscar lo que quieren, de hacer recomendaciones relevantes. Así que pueden esperar que por las próximas semanas el grueso del trabajo técnico se destine a esta tarea. También es prioridad 1 la resolución de bugs en la app que usuarios vayan reportando, así que si la prueban y encuentran problemas, ¡no sean tímidos y nos avisan!
+La construcción del catálogo de productos va a llevar tiempo. La habilidad de construir un catálogo en sí misma no tiene sentido si no se construye también una forma para los clientes de acceder a ese catálogo, de buscar lo que quieren, de hacer recomendaciones relevantes. Así que pueden esperar que por las próximas semanas el grueso del trabajo técnico se destine a esta tarea. Además, es prioridad número uno la resolución de bugs en la app que usuarios vayan reportando, así que si la prueban y encuentran problemas, ¡no sean tímidos y nos avisan!
 
-## Trabajo futuro en el corto plazo: Otra visita a Tailandia?
+## Trabajo futuro en el corto plazo: ¿Otra visita a Tailandia?
 
 La idea de la creación del catálogo sale de ahí. En Tailandia hay muchísimos dispensarios de cannabis. En algunas áreas varios por cuadra. Una parte muy considerable de esas flores vienen del extranjero, entonces no hay posibilidad de que usen NFCogos para trazar sus cultivos ya que no son productores, solo venden. Pero un catálogo de productos y un sistema de reseñas sí podría entrar en esa ecuación. Entonces, cuando el catálogo y marketplace estén prontos pasaremos nuevamente por Tailandia a ver si podemos abrir la cancha y no limitar a los usuarios a plantar, sino también a buscar y ofrecer productos.
 
