@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hola mundo!: Publicación oficial de NFCogos 🍾"
-date: 2023-05-15 12:00:00 +0700
+date: 2023-05-22 12:00:00 +0700
 categories: posts
 ---
 
