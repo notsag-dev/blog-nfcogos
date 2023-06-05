@@ -21,6 +21,6 @@ Por el momento es difícil contactar a los clubes cannábicos en Uruguay más al
 
 ## Viajes en NFCogos
 
-Les escribo desde Kuala Lumpur nuevamente, la capital de Malasia, después de pasar más de una semana en la hermosa isla Tioman en la costa este. Este ha sido uno de los momentos más fuertes del viaje. Pasar por un lugar donde los viajeros extienden su estadía todo el tiempo, donde se puede compartir con los locales, donde las relaciones con otras personas se dan de una forma más natural y descontracturada, realmente ayuda al ánimo y a la recarga la energía. ¡Gracias Tioman!
+Les escribo desde Kuala Lumpur nuevamente, la capital de Malasia, después de pasar más de una semana en la hermosa isla Tioman en la costa este. La estadía en Tioman fue de los highlights del viaje hasta ahora. Pasar por un lugar donde los viajeros extienden su estadía todo el tiempo, donde se puede compartir con los locales, donde las relaciones con otras personas se dan de una forma más natural y descontracturada, realmente ayuda al ánimo y a la recarga la energía. ¡Gracias Tioman!
 
 El próximo destino será Cameron Highlands, zona de plantaciones de frutilla y té, selva y temperatura un poco más baja para enfriar un poco las ideas después del intenso calor y humedad de la capital. Ya les contaré qué tal.
