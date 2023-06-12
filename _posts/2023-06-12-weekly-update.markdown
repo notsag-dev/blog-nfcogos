@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Catálogo y monetización"
+title: "Actualización semanal: Esta semana estará disponible el catálogo"
 date: 2023-06-12 09:00:00 +0700
 categories: posts
 ---
