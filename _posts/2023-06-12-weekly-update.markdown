@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Esta semana estará disponible el catálogo"
+title: "Actualización semanal: Envíanos tus cogos"
 date: 2023-06-12 09:00:00 +0700
 categories: posts
 ---
