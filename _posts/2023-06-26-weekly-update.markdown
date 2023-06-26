@@ -19,4 +19,4 @@ La sección de comunidad actualmente solo cuenta con los productos que los usuar
 
 ## Viajes en NFCogos
 
-Les escribo desde un hostel en Canggu, Bali, cumpliendo un sueño visitando Indonesia! El viernes fue día de moverse desde Malasia, primero desde Penang hasta Kuala Lumpur y luego desde ahí hasta Bali. La vibra en Canggu es relajada aunque con vida nocturna muy activa y un tránsito de scooters bastante intenso, también es un destino muy popular entre trabajadores remotos y viajeros muy jóvenes. Dato curioso: La intensidad del tráfico tiene sentido cuando en esta pequeña isla viven más de 4 millones de personas.
+Les escribo desde un hostel en Canggu, Bali, ¡cumpliendo un sueño visitando Indonesia! El viernes fue día de moverse desde Malasia, primero desde Penang hasta Kuala Lumpur y luego desde ahí hasta Bali. La vibra en Canggu es relajada aunque con vida nocturna muy activa y un tránsito de scooters bastante intenso, también es un destino muy popular entre trabajadores remotos y viajeros muy jóvenes. Dato curioso: La intensidad del tráfico tiene sentido cuando en esta pequeña isla viven más de 4 millones de personas.
