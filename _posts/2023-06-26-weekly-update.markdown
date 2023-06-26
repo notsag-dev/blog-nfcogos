@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actualización semanal: Onboarding"
-date: 2023-06-12 07:00:00 +0700
+date: 2023-06-26 07:00:00 +0700
 categories: posts
 ---
 
