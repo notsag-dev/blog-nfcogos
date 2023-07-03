@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Mapa"
+title: "Actualización semanal: Mapa cannábico"
 date: 2023-07-03 07:00:00 +0700
 categories: posts
 ---
