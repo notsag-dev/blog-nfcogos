@@ -5,7 +5,7 @@ date: 2023-07-03 07:00:00 +0700
 categories: posts
 ---
 
-Esta semana se hizo disponible la posibilidad de agregar la ubicación de una tienda física al crear una cuenta en NFCogos. Ahora se está trabajando en hacer disponible el mapa de ubicaciones cannábicas relevantes en map.nfcogos.com.
+Esta semana se hizo disponible la posibilidad de agregar la ubicación de una tienda física al crear una cuenta en NFCogos. Ahora se está trabajando en la publicación del mapa de ubicaciones cannábicas relevantes en una nueva web.
 
 ## Mapa cannábico
 
