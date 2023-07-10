@@ -11,7 +11,7 @@ Esta semana se hizo disponible la posibilidad de agregar la ubicación de una ti
 
 Este mapa combina información provista por Google Maps con la información ingresada por los usuarios en NFCogos sobre dispensarios de cannabis, grow shops o cualquier otra tienda relacionada. Esta información se va a ir enriqueciendo más y más con el paso del tiempo a medida que se agreguen otras funcionalidades en NFCogos como las ventas y las reseñas de tiendas y productos.
 
-Dado que esta sección de NFCogos no es inicialmente parte de la app sino que estará disponible como una nueva página web, puede esperarse que esta iteración lleve un poquito más de tiempo en completarse ya que implica crear un proyecto desde cero. De cualquier manera si todo va bien para la próxima semana ya debería estar avanzada una primera versión para publicar y seguir puliendo.
+Dado que esta sección de NFCogos no es inicialmente parte de la app sino que estará disponible como una nueva página web, puede esperarse que esta iteración lleve un poquito más tiempo en completarse ya que implica crear un proyecto desde cero. De cualquier manera si todo va bien para la próxima semana ya debería estar avanzada una primera versión para publicar y seguir puliendo.
 
 ## Viajes en NFCogos
 
