@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actualización semanal: Mapa e inteligencia artificial"
-date: 2023-07-10 07:00:00 +0700
+date: 2023-07-17 07:00:00 +0700
 categories: posts
 ---
 
