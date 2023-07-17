@@ -9,7 +9,7 @@ Como se había anticipado, el trabajo de esta semana se concentró en la creaci�
 
 ## Créditos de inteligencia artificial
 
-Inicialmente, estos créditos de OpenAI se van a utilizar para dos cosas: primero, para pagar por ChatGPT 4, la última versión de este chat que es un complemento increíble para Google y para resolver cualquier problema que se les ocurra, particularmente bueno para dudas de software. Y segundo, para crear una herramienta que permita ingresar productos en NFCogos a partir de tomar una foto a su etiqueta en un dispensario cannábico.
+Inicialmente estos créditos de OpenAI se van a utilizar para dos cosas: primero, para poder usar ChatGPT 4, la última versión de este chat que es un complemento increíble a Google y es un buen soporte para resolver cualquier problema que se les ocurra, particularmente bueno para dudas de software. Y segundo, para crear una herramienta que permita ingresar productos en NFCogos a partir de tomar una foto a su etiqueta en un dispensario cannábico.
 
 ## Mapa de tiendas
 
