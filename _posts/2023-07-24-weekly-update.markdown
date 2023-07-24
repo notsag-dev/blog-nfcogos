@@ -23,4 +23,4 @@ La idea es tener esto bien afinado para el momento de llegar a Tailandia idealme
 
 Estoy estancado, en el buen sentido, en Gili Trawangan. Cuando se vive por un tiempo de un lado a otro, hay lugares que se te terminan en tres días y otros donde los días pasan y hay cero ganas de moverse, este es de los últimos.
 
-Varias veces les comentaba sobre lo bueno de encontrar un lugar donde haya un buen balance entre trabajo y lo demás, y en este tipo de islas ese balance es fácil lograr. Un rato de playa, un poco de trabajo, comer, trabajar otro rato, a veces salir a correr, salir un rato y ver música en vivo. Si para ser productivo necesito una rutina, dame esta!
+Varias veces les comentaba sobre lo bueno de encontrar un lugar donde haya un buen balance entre trabajo y lo demás, lo importante de armarse una pequeña rutina en el dinamismo de un viaje para poder ser productivo. Para mi gusto personal, si hay playa, cafés desde los que trabajar, algún lugar donde poder salir a correr y que tenga una vida nocturna más o menos entretenida, ¡ya es una combinación imbatible!
