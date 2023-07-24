@@ -5,7 +5,7 @@ date: 2023-07-24 07:00:00 +0700
 categories: posts
 ---
 
-Esta semana se han ido afinando detalles del marketplace y mapa. Ya es posible ver las tiendas, obtener información básica, y en caso de que estén registrados en NFCogos también ver sus productos con una presentación básica.
+Esta semana se han ido afinando detalles del marketplace y el mapa. Ya es posible ver las tiendas, obtener información básica, y en caso de que estén registrados en NFCogos también ver sus productos con una presentación básica.
 
 ## Pagos
 
