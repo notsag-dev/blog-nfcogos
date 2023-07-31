@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actualización semanal: Comienzo con pedidos y deployment a test server"
-date: 2023-07-24 07:00:00 +0700
+date: 2023-07-31 07:00:00 +0700
 categories: posts
 ---
 
