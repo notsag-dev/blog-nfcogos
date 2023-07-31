@@ -5,7 +5,7 @@ date: 2023-07-24 07:00:00 +0700
 categories: posts
 ---
 
-Además de mejorar aspectos visuales del mapa, se agrega el precio a los productos en la app y se la preparó para su publicación en un servidor de prueba.
+Además de mejorar aspectos visuales del mapa, se agregó el precio a los productos en la app y se la preparó para su publicación en un servidor de prueba.
 
 ## Pedidos
 
@@ -17,4 +17,4 @@ La versión de desarrollo de la web ya está corriendo en un servidor de prueba.
 
 ## Viajes en NFCogos
 
-Semana agitada en lo que refiere a viajes. A finales de la semana pasada se terminó el tiempo en las islas Gili después de disfrutarlas por dos semanas. Qué lugares! Después de un corto paso por Nusa Lembongan, una isla muy pequeña y cercana a Bali física y culturalmente aunque mucho más tranquila, ya estamos en la locura de Bali nuevamente. De regreso en Ubud, los locales se están preparando para Galungan, un evento hinduista que festeja la victoria de dharma sobre adharma, el bien sobre el mal, que empieza el miércoles. Les cuento qué tal la semana que viene!
+Semana agitada en lo que refiere a viajes. A finales de la semana pasada se terminó el tiempo en las islas Gili después de disfrutarlas por dos semanas. ¡Qué lugares! Después de un corto paso por Nusa Lembongan, una isla muy pequeña y cercana a Bali física y culturalmente aunque mucho más tranquila, ya estamos en la locura de Bali nuevamente. De regreso en Ubud, los locales se están preparando para Galungan, un evento hinduista que festeja la victoria de dharma sobre adharma, el bien sobre el mal, que empieza el miércoles. ¡Les cuento qué tal la semana que viene!
