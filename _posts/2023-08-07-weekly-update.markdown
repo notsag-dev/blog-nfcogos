@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Comienzo con pedidos y deployment a test server"
+title: "Actualización semanal: Ckeckins"
 date: 2023-08-07 07:00:00 +0700
 categories: posts
 ---
