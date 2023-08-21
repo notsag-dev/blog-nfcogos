@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Cogomap"
+title: "Actualización semanal: Tiendas destacadas, tiendas concurridas y verificación"
 date: 2023-08-21 07:00:00 +0700
 categories: posts
 ---
