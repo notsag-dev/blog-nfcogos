@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Ckeckins"
+title: "Actualización semanal: Checkins"
 date: 2023-08-07 07:00:00 +0700
 categories: posts
 ---
