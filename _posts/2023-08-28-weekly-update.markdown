@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Preparando las apps y docs"
+title: "Actualización semanal: Cogomaps app y documentación para tiendas"
 date: 2023-08-28 07:00:00 +0700
 categories: posts
 ---
