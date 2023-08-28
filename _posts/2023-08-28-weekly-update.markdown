@@ -5,7 +5,7 @@ date: 2023-08-28 07:00:00 +0700
 categories: posts
 ---
 
-Esta semana se empezó a preparar el Cogomap para tener su propia app además de ya estar disponible en https://map.nfcogos.com. También se hizo disponible una documentación básica en https://docs.nfcogos.com/.
+Esta semana se empezó a preparar el Cogomap para tener su propia app además de ya estar disponible en su [página web](https://map.nfcogos.com). También se hizo disponible una documentación básica en [https://docs.nfcogos.com](https://docs.nfcogos.com).
 
 ## Cogomap app
 
