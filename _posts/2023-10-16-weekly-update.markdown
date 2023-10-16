@@ -9,16 +9,14 @@ categories: posts
 
 ## Publicaciones
 
-Por ahora las publicaciones son simplísimas: son publicaciones solo de texto. No sé si ya se dieron cuenta, pero tanto en la app de trazabilidad de NFCogos como en el Cogomap la forma de trabajo es primero crear una versión muy simple de cualquier nueva funcionalidad, inmediatamente se publica para ser probada, y al mismo tiempo se va evolucionando hacia algo más completo. Y esto será también el caso para las publicaciones.
+Por ahora las publicaciones son simplísimas: son publicaciones solo de texto. No sé si ya se dieron cuenta, pero tanto en la app de trazabilidad de NFCogos como en el Cogomap la forma de trabajo es primero crear una versión muy simple de cualquier nueva funcionalidad, inmediatamente se publica para ser probada, y al mismo tiempo se va evolucionando hacia algo más completo. Y este también será el caso para las publicaciones.
 
 ## Para esta semana: Estabilización y corrección de bugs
 
-En las últimas semanas se han agregado funcionalidades importantes como las insignias coleccionables y ahora las publicaciones. Ha sido tiempo de agregar mucho pero poco tiempo se ha dedicado a mejorar la experiencia de las funcionalidades que ya existen o a corregir algunos bugs. Esta semana se va a dedicar tiempo a probar y corregir cosas que se vayan encontrando para mejorar la experiencia del usuario.
-
-## Cogoland
-
-El mapa de dispensarios no va a ser el centro de esta red social como quizá al comienzo se pensó, sino que va a ser simplemente una parte de la misma. Ya les voy avisando que el nombre definitivo de la red social va a ser Cogoland, y se accederá a través de https://cogo.land.
+En las últimas semanas se han agregado funcionalidades importantes como las insignias coleccionables y ahora las publicaciones. Ha sido tiempo de agregar mucho pero poco tiempo se ha dedicado a mejorar la experiencia de las funcionalidades que ya existen o a corregir algunos bugs. Esta semana se va a dedicar tiempo a probar y corregir problemas que se vayan encontrando y a mejorar la experiencia del usuario en general.
 
 ## Viajes en NFCogos
 
-Les escribo nuevamente desde Phuket, Tailandia. Particularmente desde Patong beach. Patong tiene una playa llena de actividades, una calle principal con bares, cabarets, dispensarios, y hasta clubs de tiro. Por lo demás, la oferta de restaurantes y cafés es gigante y es fácil armarse una pequeña rutina de trabajo, y en eso estamos: trabajando bastante y esquivando un poco la noche intensa de Patong.
+Les escribo nuevamente desde Phuket, Tailandia. Más específicamente desde Patong beach. Patong es conocida por su playa llena de actividades y también por Bangla Road, su calle principal que, sin miedo a exagerar, tiene la noche más intensa que he visto en Tailandia: boliches, go-go bars, clubs de tiro, dispensarios cannábicos, música alta y promotores compitiendo con promotores por venderte tragos, tiros y espectáculos +18, solo por nombrar los más populares.
+
+Un lugar así divide bastante las aguas, están los que se horrorizan por un lado y los que ya se metieron a Sky Scanner por otro. Patong, sin embargo, no es solo Bangla Road. La oferta de cafés y restaurantes es gigante y es fácil armarse una pequeña rutina de trabajo. Y en eso estamos: trabajando bastante, esquivando un poco Bangla Road y disfrutando de un estilo de vida un poco más tranquilo en la locura.
