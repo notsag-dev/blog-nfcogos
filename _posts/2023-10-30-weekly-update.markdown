@@ -23,4 +23,4 @@ Es momento de profundizar en los checkins. Esto es, agregar más metadata sobre 
 
 Les saludo desde Estambul, Turquía. Esta es la ciudad entre dos continentes que les mencioné en la actualización anterior: Estambul tiene una parte en Asia y otra en Europa. Es multicultural, histórica y vibrante. Por pura casualidad llegué el día anterior a los festejos por los 100 años de Turquía, lo que me dio tiempo de descansar y disfrutar del ambiente festivo ayer domingo.
 
-¿Solo 100 años? Antes de ser una república, Turquía solía ser el imperio Otomano por siglos extendiéndose por el sudeste europeo, el norte de África y el oeste de asia, hasta convertirse en república el 29 de octubre de 1923.
+¿Solo 100 años? Antes de ser una república, Turquía solía ser el imperio Otomano por siglos extendiéndose por el sudeste europeo, el norte de África y el oeste de Asia, hasta convertirse en república el 29 de octubre de 1923.
