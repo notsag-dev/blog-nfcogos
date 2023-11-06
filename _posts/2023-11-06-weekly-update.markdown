@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actualización semanal: Un año de NFCogos"
-date: 2023-10-30 07:00:00 +0700
+date: 2023-11-06 07:00:00 +0700
 categories: posts
 ---
 
