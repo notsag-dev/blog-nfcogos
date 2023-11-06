@@ -27,4 +27,4 @@ Gracias, gracias y más gracias a quienes han apoyado el proyecto con su atenci�
 
 Hora de volver a la realidad. Al ser un proyecto 100% personal, en los próximos meses habrá que dividir el tiempo con otros trabajos para poder seguir financiándolo, pero la independencia es el camino que prefiero seguir aunque todo cueste el doble. Y no hablo de “trabajar solo”, hablo de no buscar inversiones privadas ya que nada es gratis y todo viene con condiciones y presiones extra.
 
-Bueno, quedó larguito el post, me disculpan las parrafadas. Nos hablamos pronto, peace out.
+Mientras tanto los espero en Cogoland, ¡ojalá se copen y comiencen a compartir alguna cosita! Hablamos pronto.
