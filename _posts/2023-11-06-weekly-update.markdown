@@ -17,9 +17,9 @@ Si el foco se quitó de ahí por ahora no es porque no sea importante, sino porq
 
 ## Red social: Cogomap/Cogoland
 
-El Cogomap, más que un mapa cannábico, se va convirtiendo poco a poco en una red social completamente funcional. Ya se puede utilizar en [https://map.nfcogos.com](https://map.nfcogos.com), pero la idea es publicar también las apps cuando se estabilice, idealmente antes de fin de año, con un nuevo nombre: Cogoland, para materializar desde el punto de vista de la marca esta evolución desde un mapa cannábico hacia algo más completo.
+El Cogomap, más que un mapa cannábico, se va convirtiendo poco a poco en una red social completamente funcional. Ya se puede utilizar en [https://map.nfcogos.com](https://map.nfcogos.com), y la idea es publicar también las apps cuando se estabilice, idealmente antes de fin de año, con un nuevo nombre: Cogoland, para materializar desde el punto de vista de la marca esta evolución desde un mapa cannábico hacia algo más completo.
 
-Por ahora, además del mapa cannábico, tenemos publicaciones de texto/imágenes, likes, reseñas de tiendas cannábicas mediante los “check-ins”, hay insignias que los usuarios pueden coleccionar y se está completando el perfil de usuario. Si se añaden comentarios y la posibilidad de seguir a otros usuarios quedarían incluidas casi todas las características sociales tradicionales y alguna extra más relacionada al cannabis.
+Por ahora, además del mapa cannábico, tenemos publicaciones de texto/imágenes, likes, reseñas de tiendas cannábicas mediante “check-ins”, hay insignias que los usuarios pueden coleccionar y se está completando el perfil de usuario. Si se añaden comentarios y la posibilidad de seguir a otros usuarios quedarían incluidas casi todas las características sociales tradicionales y alguna extra más relacionada al cannabis.
 
 ## ¡Gracias!
 
