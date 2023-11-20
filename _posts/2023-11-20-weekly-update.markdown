@@ -5,7 +5,7 @@ date: 2023-11-20 07:00:00 -0300
 categories: posts
 ---
 
-Esta semana se dedicó principalmente al agregado de los comentarios a la red social. También se está trabajando con una diseñadora en el logo, una de las últimas tareas faltantes para que la red social esté disponible para plataformas móviles como Cogoland. Por ahora solo se puede acceder a través de la web: https://map.nfcogos.com.
+Esta semana se dedicó principalmente al agregado de los comentarios a la red social. También se está trabajando con una diseñadora en el logo, una de las últimas tareas faltantes para que la red social esté disponible para plataformas móviles como Cogoland. Por ahora solo se puede acceder a través de la web: [https://map.nfcogos.com](https://map.nfcogos.com).
 
 ## Comentarios
 
