@@ -5,7 +5,7 @@ date: 2023-11-27 07:00:00 -0300
 categories: posts
 ---
 
-Semana variadita en Cogoland: se habilitaron los comentarios en la red social y ya es posible ver el perfil de otros usuarios. También se retomó la app de cultivo.
+Semana variadita en Cogoland: se habilitaron los comentarios en la red social y se empezaron a agregar lugares de interés a nuestro mapa cannábico en Uruguay. También se comenzó con una nueva fase de la app de cultivo.
 
 ## Retomando la app de trazabilidad/cultivo
 
