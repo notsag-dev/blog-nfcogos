@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Comentarios, perfil y app de cultivo"
+title: "Actualización semanal: Comentarios, mapa cannábico uruguayo y app de cultivo"
 date: 2023-11-27 07:00:00 -0300
 categories: posts
 ---
