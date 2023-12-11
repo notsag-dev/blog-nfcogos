@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actualización semanal: Cogoland"
-date: 2023-11-27 07:00:00 -0300
+date: 2023-12-04 07:00:00 -0300
 categories: posts
 ---
 
