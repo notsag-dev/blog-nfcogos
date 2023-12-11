@@ -5,7 +5,7 @@ date: 2023-12-11 07:00:00 -0300
 categories: posts
 ---
 
-Fin de semana de una hermosa Expo Cannabis, que ahora pasa a ser Latinnabis. En cuanto a las apps, el compartir una actualización de cultivo desde NFCogos directamente hacia la comunidad está cada vez más cerca.
+Fin de semana de una hermosa Expo Cannabis, que ahora pasa a ser Latinnabis. En cuanto a las apps, el poder compartir una actualización de cultivo desde NFCogos directamente hacia la comunidad en Cogoland está cada vez más cerca.
 
 ## NFCogos <> Cogoland
 
