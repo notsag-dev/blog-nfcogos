@@ -9,7 +9,7 @@ Fin de semana de una hermosa Expo Cannabis, que ahora pasa a ser Latinnabis. En 
 
 ## NFCogos <> Cogoland
 
-Posiblemente esta semana ya quedará actualizada la app de trazabilidad y cultivo, NFCogos, para dar la opción de publicar una actualización de cultivo directamente hacia la red social. Esto les permitirá tanto mostrar su trabajo como hacer consultas y pedir ayuda a la comunidad.
+Posiblemente esta semana ya quedará actualizada la app de trazabilidad y cultivo, NFCogos, para dar la opción de publicar una actualización de cultivo directamente hacia la red social, Cogoland. Esto les permitirá tanto mostrar su trabajo como hacer consultas y pedir ayuda a la comunidad.
 
 ## Viajes en NFCogos
 
