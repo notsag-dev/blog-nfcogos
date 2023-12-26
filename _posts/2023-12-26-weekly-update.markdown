@@ -19,4 +19,4 @@ Las apps están casi prontas, quedan solo corregir unos detalles y se mandarán 
 
 Luego de pasar navidad con la familia se viene, desde mañana, un viajecito local. Un poco de playa para relajar y también recibir el nuevo año. Ya les estaré mostrando.
 
-_Love and iries to all nations of the world. Black and white. Yellow and blue. 'cause no-one is white. No-one is yellow. No-one is blue. To all people, irie feelings._ Roots Time.
+_Love and iries to all nations of the world. Black and white. Yellow and blue. 'cause no-one is white. No-one is yellow. No-one is blue. To all people, irie feelings._ Cita de la película Roots Time.
