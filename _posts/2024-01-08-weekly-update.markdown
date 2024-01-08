@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Atendiendo los caprichos de Apple"
+title: "Actualización semanal: Publicación de Cogoland"
 date: 2023-08-01 07:00:00 -0300
 categories: posts
 ---
