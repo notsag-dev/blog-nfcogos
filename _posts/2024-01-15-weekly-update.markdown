@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Publicación de Cogoland"
+title: "Actualización semanal: Publicación y siguientes pasos"
 date: 2024-01-15 07:00:00 -0300
 categories: posts
 ---
