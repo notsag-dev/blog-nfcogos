@@ -13,7 +13,7 @@ Varios de ustedes ya han compartido sus plantas, cogos, momentos 420 y hasta sus
 
 ## Notificaciones
 
-Ya vamos pensando y modelando las notificaciones. Tener un sistema de notificaciones es crucial en una red social, y es algo de lo que la app de cultivo también se puede beneficiar. Esto va a llevar tiempo así que se va a agregar una versión bastante simple en principio e irá evolucionando como ya se hizo con otras funcionalidades.
+Ya vamos pensando y modelando las notificaciones. Tener un sistema de notificaciones es crucial en una red social y es algo de lo que la app de cultivo también se puede beneficiar. Esto va a llevar tiempo así que se va a agregar una versión bastante simple en principio e irá evolucionando como ya se hizo con otras funcionalidades.
 
 ## ¡Qué viaje! en NFCogos
 
