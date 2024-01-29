@@ -9,7 +9,7 @@ Esta semana el tiempo se dividió en dos tareas: agregado de notificaciones y co
 
 ## Notificaciones
 
-De a poco las notificaciones de Cogoland van tomando forma pero todavía hay trabajo que hacer para tener una versión simple funcionando. Este semana se seguirá trabajando en esto y mientras tanto habrá que ir pensando en los próximos pasos.
+De a poco las notificaciones de Cogoland van tomando forma pero todavía hay trabajo que hacer para tener una versión simple funcionando. Esta semana se seguirá trabajando en esto y mientras tanto habrá que ir pensando en los próximos pasos.
 
 ## Feedback
 
