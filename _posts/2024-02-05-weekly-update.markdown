@@ -16,3 +16,5 @@ Ya se empezaron a generar notificaciones cuando un usuario recibe un "me gusta" 
 Viaje express a Playa Hermosa de fin de semana para disfrutar en familia. Finde de mate, asado y playa. Encima con noctilucas. ¿Las conocen? Son organismos unicelulares, bioluminiscentes, que viven en el agua en grandes cantidades y que emiten luz con el movimiento.
 
 Si bien las noctilucas son inofensivas para el humano, no siempre son estas las causantes de la bioluminiscencia. Los organismos que provocan el fenómeno de la marea roja, que dejan rojiza el agua por el día y bioluminiscente por la noche, son distintos a las noctilucas y generan toxinas que irritan la vista y pueden provocar diarrea 💩
+
+Suerte que eran noctilucas porque tampoco nos pusimos a averiguar mucho. ¡Que tengan una muy buena semana!
