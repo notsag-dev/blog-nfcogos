@@ -24,7 +24,7 @@ Se enriquece la metadata de Cogoland para que mejore el ranking en Google y en o
 Varios países en el mundo ya regularon el autocultivo de cannabis. Estos son algunos de ellos con sus límites de cantidad de plantas y gramos a portar públicamente y en casa:
 
 - Uruguay: 6 plantas florando. Portar 40g. Max producción 480g por año.
-- Argentina: 9 plantas florando.
+- Argentina: 9 plantas florando. Portar 40g.
 - Colombia: 20 plantas. Portar 20g.
 - Canadá: 4 plantas. Portar 30g. Se permite compartir hasta 30g con otros adultos.
 - Sudáfrica: 4 plantas para quienes viven solos y 8 plantas en total para más personas. Portar 100g. 600g almacenados en casa para una persona y 1200g para más personas.
