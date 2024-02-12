@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Police in helicopter"
+title: "Actualización semanal: Yo planto"
 date: 2024-02-12 07:00:00 -0300
 categories: posts
 ---
@@ -17,7 +17,7 @@ Se aprovechó para hacer varias limpiezas y correcciones. Entre otras:
 
 ## SEO
 
-Se enriquece la metadata de Cogoland para que mejore el ranking en Google y en otros motores de búsqueda. Esto va a ser proceso que se va a continuar y es clave para llegar a más gente.
+Se enriquece la metadata de Cogoland para que mejore el ranking en Google y en otros motores de búsqueda. Esto va a ser un proceso que se va a continuar y es clave para llegar a más gente.
 
 ## ¡Qué viaje! en NFCogos
 
