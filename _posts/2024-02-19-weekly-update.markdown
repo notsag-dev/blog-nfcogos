@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Yo planto"
+title: "Actualización semanal: Los carros de Babylon"
 date: 2024-02-12 07:00:00 -0300
 categories: posts
 ---
