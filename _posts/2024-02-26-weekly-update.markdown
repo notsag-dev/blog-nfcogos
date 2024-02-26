@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: "
+title: "Actualización semanal: Autocultivo"
 date: 2024-02-26 07:00:00 -0300
 categories: posts
 ---
