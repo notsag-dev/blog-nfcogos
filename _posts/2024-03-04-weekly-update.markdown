@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Autocultivo"
+title: "Actualización semanal: Videos en Cogoland"
 date: 2024-03-04 07:00:00 -0300
 categories: posts
 ---
