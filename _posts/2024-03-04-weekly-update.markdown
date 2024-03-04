@@ -9,11 +9,11 @@ categories: posts
 
 ## Videos
 
-Ya se pueden subir videos a Cogoland. En los primeros días de esta semana se van a hacer algunos retoques a la funcionalidad como la posibilidad de agregar una imagen en miniatura desde archivo.
+Ya se pueden subir videos a Cogoland. En los primeros días de esta semana se van a hacer algunos retoques a la funcionalidad como agregar la posibilidad de agregar una imagen en miniatura desde la galería.
 
 ## Próximas semanas
 
-En el lado de Cogoland, hay algunas nuevas características planeadas como el chat, que al comienzo será un chat general de la app para hablar entre todos. Antes de esto, habrá que retocar aspectos de la interfaz que están un poco colgados como las insignias o la pestaña de anuncios que casi no se están utilizando.
+Ya hay algunas nuevas características planeadas como el chat, que al comienzo será un chat general de la app para hablar entre todos. Antes de esto, habrá que retocar aspectos de la interfaz que están un poco colgados como las insignias o la pestaña de anuncios de presencia en tiendas que casi no se están utilizando.
 
 ## Viajes en NFCogos
 
