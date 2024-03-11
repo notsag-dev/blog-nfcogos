@@ -17,6 +17,6 @@ Se están realizando cambios a publicarse hoy o mañana para poder cambiar el or
 
 ## ¡Qué viaje! en NFCogos
 
-¡La comunidad de Cogoland responde! Se valoran muchísimo sus reseñas a Cogoland tanto en Google Play como en el App Store. Conseguimos veintidós nuevas reseñas entre las dos plataformas, además de llegar a un máximo de nuevos usuarios y nuevas publicaciones en un día. Hasta estuvimos momentaneamente en el puesto #25 en redes sociales de iOS.
+¡La comunidad de Cogoland responde! Se valoran muchísimo sus reseñas a Cogoland tanto en Google Play como en el App Store. El viernes pasado conseguimos veintidós nuevas reseñas entre las dos plataformas, además de llegar a un máximo de nuevos usuarios y nuevas publicaciones en un día. Hasta estuvimos momentáneamente en el puesto #25 en redes sociales de iOS.
 
-¡Muchas gracias por el empujoncito! Como puede que sepan, este es un proyecto personal e independiente, y ese cariño no solo que se valora sino que es crucial para que esto avance porque solo no se llega a ningún lado. ¡Muchas gracias, a seguir construyendo!
+¡Muchas gracias por el empujoncito! Este es un proyecto personal e independiente, y ese cariño no solo se valora sino que es crucial para que esto avance porque solo no se llega a ningún lado. ¡Muchas gracias, a seguir construyendo!
