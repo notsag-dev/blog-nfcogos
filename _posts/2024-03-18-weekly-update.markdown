@@ -21,14 +21,14 @@ Como sé que les gustan los datos, acá les van algunos sobre Cogoland:
 Android:
 
 - Hay 97 dispositivos activos con Cogoland (que la abrieron en el último mes)
-- En total se ha descargado 140 veces.
-- El día que más veces se instalaron Cogoland fueron 15 veces, y eso pasó hace 10 días.
+- En total se ha descargado 140 veces
+- El día que más veces se instalaron Cogoland fueron 15 veces, y eso pasó hace 10 días
 
 iPhone/iPad:
 
-- Se ha descargado 149 veces.
-- De las 149 instalaciones, 139 fueron en iPhone y 10 en iPad.
-- Los usuarios activos entran en promedio 3.69 veces por semana.
+- Se ha descargado 149 veces
+- De las 149 instalaciones, 139 fueron en iPhone y 10 en iPad
+- Los usuarios activos entran en promedio 3.69 veces por semana
 
 En general:
 
