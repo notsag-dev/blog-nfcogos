@@ -18,6 +18,7 @@ Con las notificaciones push, al menos sabrán si hubo interacción con su conten
 ## ¡Qué viaje! en NFCogos
 
 Como sé que les gustan los datos, acá les van algunos sobre Cogoland:
+
 Android:
 
 - Hay 97 dispositivos activos con Cogoland (que la abrieron en el último mes)
