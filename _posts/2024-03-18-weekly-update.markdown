@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: "
+title: "Actualización semanal: Notificaciones push"
 date: 2024-03-18 07:00:00 -0300
 categories: posts
 ---
