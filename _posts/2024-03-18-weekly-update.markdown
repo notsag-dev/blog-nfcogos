@@ -35,5 +35,6 @@ En general:
 
 - Hay 247 publicaciones en el feed
 - Con 1080 likes
+- NFCogos y Cogoland han conseguido 591 usuarios en total, aunque varios son usuarios de test de Android y Apple
 - Ninguna publicación o usuario han sido reportados
 - El Cogomap tiene 810 lugares cannábicos en total
