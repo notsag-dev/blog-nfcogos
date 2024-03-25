@@ -9,9 +9,9 @@ Esta semana se dedicó enteramente a avanzar en el desarrollo de las notificacio
 
 ## Notificaciones push
 
-Las notificaciones push van a permitir que los usuarios estén al tanto de las interacciones con su contenido además de otras noticias importantes en Cogoland.
+Las notificaciones push avisarán a los usuarios sobre interacciones con su contenido además de informar sobre eventos importantes en la app.
 
-Ya se hizo un buen avance, se terminó la parte de Android y resta configurar la app de iPhone/iPad. Es probable que a finales de esta semana ya se tenga la nueva versión de la app pronta para publicar en las dos plataformas.
+Ya se hizo un buen avance, se terminó la parte de Android y resta configurar la app de iPhone/iPad. Es probable que a fines de esta semana ya se tenga la nueva versión de la app pronta para publicar en las dos plataformas.
 
 ## ¡Qué viaje! en NFCogos
 
@@ -21,4 +21,4 @@ La subespecie cannabis ruderalis tiene ciertas particularidades que la hacen atr
 
 Las variedades automáticas comerciales no dependen de ciclos lumínicos para su floración por siempre tener una ruderalis en su cruza. Esto permite que puedan ser cultivadas en cualquier momento del año en exteriores para una cosecha rápida, y en interior muchas veces son un buen comienzo para cultivadores novatos ya que quita la necesidad de cambiar manualmente las horas de luz para ponerlas a florar.
 
-Y ustedes, ¿ya cultivaron variedades automáticas? ¡Cuéntenme su experiencia!
+¿Ya cultivaron variedades automáticas? ¡Cuéntenme sobre su experiencia!
