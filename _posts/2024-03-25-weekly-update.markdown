@@ -15,10 +15,10 @@ Ya se hizo un buen avance, se terminó la parte de Android y resta configurar la
 
 ## ¡Qué viaje! en NFCogos
 
-Tienen poco THC, menos que las índicas y sativas, así que para uso recreativo no rinden. Tampoco crecen muy grandes, así que como cáñamo industrial tampoco funcionarían. Entonces, ¿para qué usamos las ruderalis?
+Tienen poco THC, menos que las índicas y sativas, así que para uso recreativo no rinden. Tampoco crecen muy grandes, entonces que como cáñamo industrial tampoco funcionarían. Entonces, ¿para qué usamos las ruderalis?
 
-La subespecie cannabis ruderalis tiene ciertas particularidades que la hacen atractiva para nuestro uso. Estas plantas se origina en zonas de Europa y Asia, predominantemente en Rusia, y crece en los ambientes más hostiles. No dependen de los ciclos de luz para florar sino de su edad, y su maduración es rápida, por lo que su principal uso es para ser cruzadas con plantas más grandes y productoras para crear variedades de floración automática.
+La subespecie cannabis ruderalis tiene ciertas particularidades que la hacen atractiva para nuestro uso. Estas plantas se originan en zonas de Europa y Asia, predominantemente en Rusia, y crece en los ambientes más hostiles. No dependen de los ciclos de luz para florar sino de su edad, y su maduración es rápida, por lo que su principal uso es ser cruzadas con plantas más grandes y productoras para crear variedades de floración automática.
 
-Las variedades automáticas comerciales no dependen de ciclos lumínicos para su floración por siempre tener una ruderalis en su cruza. Esto permite que puedan ser cultivadas en cualquier momento del año en exteriores para una cosecha rápida, y en interior muchas veces son un buen comienzo para cultivadores novatos ya que quita la necesidad de cambiar manualmente las horas de luz para ponerlas a florar.
+Las variedades automáticas no dependen de ciclos lumínicos para su floración por siempre tener una ruderalis en su cruza. Esto permite que puedan ser cultivadas en cualquier momento del año en exteriores para una cosecha rápida, y en interior muchas veces son un buen comienzo para cultivadores novatos ya que quita la necesidad de cambiar manualmente las horas de luz para ponerlas a florar.
 
 ¿Ya cultivaron variedades automáticas? ¡Cuéntenme sobre su experiencia!
