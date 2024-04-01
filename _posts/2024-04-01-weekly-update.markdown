@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: "
+title: "Actualización semanal: Deutschland"
 date: 2024-03-25 07:00:00 -0300
 categories: posts
 ---
@@ -13,6 +13,6 @@ Las notificaciones push quedaron publicadas. Al recibir un comentario o un me gu
 
 ## ¡Qué viaje! en NFCogos
 
-Gran comienzo para el mes de la hierba: ¡hoy entró en vigencia la regularización del cannabis en Alemania! El autocultivo es legal de hasta tres plantas, se pueden portar hasta 25 gramos de flores en público y guardar hasta 50 gramos en casa. También se crea la figura del club cannábico que puede tener hasta 500 socios.
+Gran comienzo para el mes de la hierba: ¡hoy entró en vigencia la regulación del cannabis en Alemania! El autocultivo es legal de hasta tres plantas, se pueden portar hasta 25 gramos de flores en público y guardar hasta 50 gramos en casa. También se crea la figura del club cannábico que puede tener hasta 500 socios.
 
 Si Alemania lo hizo, seguro muchos vienen detrás. Mientras tanto, los conservadores amenazando con tirar atrás la ley si llegan al poder, me recuerda cuando en Uruguay un político gritaba en campaña: "¡Que no planten nada, que no planten nada, porque la vamos a derogar!"
