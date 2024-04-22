@@ -15,6 +15,6 @@ Mantengámoslo así, seguro. Compartamos lo que nos sintamos seguros compartiend
 
 ## ¡Qué viaje! en NFCogos
 
-Hace unos días Instagram nos suspendió la cuenta de NFCogos. Se apeló la decisión y la cuenta se habilitó a los minutos. Fue raro como se dio, pero no seríamos los primeros ni los últimos con su cuenta suspendida por publicar sobre cannabis.
+Hace unos días Instagram nos suspendió la cuenta de NFCogos. Se apeló la decisión y la cuenta se habilitó a los minutos. Fue raro cómo se dio, pero no seríamos los primeros ni los últimos con su cuenta suspendida por publicar sobre cannabis.
 
-Recuerden que también tenemos la cuenta @cogo.land como respaldo si esta se elimina en algún momento. Y que, por supuesto, estamos en Cogoland, donde nadie va a ser suspendido por publicar sobre cannabis.
+Recuerden que también tenemos la cuenta @cogo.land como respaldo si esta se elimina en algún momento. Y que, por supuesto, estamos en Cogoland, donde nadie va a ser suspendido por publicar sobre cannabis 😊.
