@@ -17,6 +17,6 @@ Hace solo 10 meses que se empezó a trabajar en el Cogomap, que luego se convert
 
 Viéndolo en perspectiva, han sido las políticas de censura de Instagram sobre la planta las que empujaron a este proyecto a convertirse en una red social más completa: necesitamos comunicar en un espacio donde la continuidad de nuestro trabajo no dependa de un algoritmo que decide qué cuenta eliminar y cuál puede quedarse.
 
-Ayer vi un post que hablaba de entender las reglas de los algoritmos y usarlas a nuestro favor. Pero jugar por las reglas en Instagram significa hablar de tomates y no de cannabis, literal. Como por ahora no queda de otra, seguiremos hackeando los algoritmos, intentando llegar a más gente en Metaland. Pero siguiendo con el trabajo de hormiga en Cogoland para poder independizarnos y zafar de la censura en algún momento.
+Ayer vi un post que hablaba de entender las reglas de los algoritmos y usarlas a nuestro favor. Pero jugar por las reglas en Instagram significa hablar de tomates y no de cannabis, literal. Como por ahora no queda de otra, seguiremos hackeando los algoritmos, intentando llegar a más gente en Metaland. Pero siguiendo también con el trabajo de hormiga en Cogoland para poder independizarnos y zafar de la censura en algún momento.
 
 ¡Gracias por apoyar este proyecto!
