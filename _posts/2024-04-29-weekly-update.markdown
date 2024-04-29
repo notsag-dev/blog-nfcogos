@@ -9,7 +9,7 @@ Esta semana pasada se estuvieron corrigiendo errores y mejorando funcionalidades
 
 ## Correcciones y mejoras
 
-Estas son semanas de corregir y mejorar la app en lugar de agregar funcionalidades nuevas. La evolución de Cogoland ha seguido la filosofía de "moverse rápido y romper cosas", que favorece la experimentación y la evolución rápida por encima del perfeccionismo. Habiendo dicho esto, es crucial que la evolución rápida se acompañe de la corrección de errores y la mejora continua. En esta etapa de correcciones y mejoras sus opiniones importan mucho y ayudan a seguir avanzando, !los leo!
+Estas son semanas de corregir y mejorar la app en lugar de agregar funcionalidades nuevas. Cogoland sigue la filosofía de "moverse rápido y romper cosas", que favorece la experimentación y la evolución rápida por encima del perfeccionismo. Habiendo dicho esto, es crucial que la evolución rápida se acompañe de la corrección de errores y la mejora continua. En esta etapa sus opiniones importan mucho y ayudan a seguir mejorando la app, !los leo!
 
 ## ¡Qué viaje! en NFCogos
 
