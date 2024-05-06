@@ -7,13 +7,13 @@ categories: posts
 
 Esta semana se trabajó en agregar la primera versión de cuentas verificadas en Cogoland y se empezó a planear un tipo nuevo de publicación en la red social: la actualización de cultivo.
 
-## Cuentas verificadas
-
-Las cuentas verificadas son una de las primeras funcionalidades pensadas para ser parte de una suscripción pro en el futuro cercano. Por ahora solo la cuenta de NFCogos está verificada.
-
 ## Actualización de cultivo
 
 ¡Atentos, cultivadores! Se van a poder publicar actualizaciones de cultivo directamente en Cogoland. Serán similares a las publicaciones normales aunque con otros datos como temperatura y humedad, genéticas y otros. ¡Seguro les va a encantar!
+
+## Cuentas verificadas
+
+Las cuentas verificadas son una de las primeras funcionalidades pensadas para ser parte de una suscripción pro en el futuro cercano. Por ahora solo la cuenta de NFCogos está verificada.
 
 ## ¡Qué viaje! en NFCogos
 
