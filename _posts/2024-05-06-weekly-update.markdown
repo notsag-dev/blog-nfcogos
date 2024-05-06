@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Chant down Metaland"
+title: "Actualización semanal: Verified"
 date: 2024-05-06 07:00:00 -0300
 categories: posts
 ---
