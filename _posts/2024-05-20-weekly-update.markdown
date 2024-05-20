@@ -5,11 +5,11 @@ date: 2024-05-20 07:00:00 -0300
 categories: posts
 ---
 
-La semana que pasó se dedicó a corregir bugs en Cogoland y a darle un poco de cariño a nuestra app de cultivo: NFCogos.
+La semana pasada se dedicó a corregir bugs en Cogoland y a darle un poco de cariño a nuestra app de cultivo: NFCogos.
 
 ## Mejoras en NFCogos
 
-NFCogos, nuestra app de cultivo, ha quedado un poco para al costado desde hace unos meses cuando Cogoland vio la luz. Ya que se quieren agregar actualizaciones de cultivo también a la red social, es momento de una pequeña restructura y mejora de la app de cultivo.
+NFCogos, nuestra app de cultivo, ha quedado un poco para al costado desde hace unos meses cuando Cogoland vio la luz. Ya que se quieren agregar actualizaciones de cultivo también a la red social, es momento de una pequeña reestructura y mejora de la app de cultivo.
 
 ## ¡Qué viaje! en NFCogos
 
