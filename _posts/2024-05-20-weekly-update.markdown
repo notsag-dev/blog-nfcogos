@@ -22,8 +22,8 @@ NFCogos, nuestra app de cultivo, ha quedado un poco para al costado desde hace u
 - Se produce recolectando y comprimiendo los tricomas en un bloque o bola sólida.
 - Es generalmente más potente que la flor de cannabis regular, con niveles de THC que van del 20% al 60%, dependiendo de la calidad y el tipo.
 - Se puede almacenar por períodos más largos en comparación a las flores, ya que su forma concentrada es menos propensa a la degradación cuando se mantiene en un lugar fresco y oscuro.
-- Variedades Famosas de Hachís: Algunas variedades conocidas de hachís incluyen el Hachís Marroquí, el Hachís Afgano, el Hachís Libanés y el Charas de India.
-- Cannabinoides: Además de THC, el hachís contiene otros cannabinoides como CBD, CBG y más, contribuyendo a sus efectos generales.
-- Métodos de Consumo: Se puede fumar en una pipa, bong o porro, vaporizar, o usar en comestibles.
+- Algunas variedades conocidas incluyen el Hachís Marroquí, el Afgano, el Libanés y el Charas de India.
+- Además de THC, contiene otros cannabinoides como CBD, CBG y más, contribuyendo a sus efectos generales.
+- Se puede fumar en una pipa, bong o porro, vaporizar, o usar en comestibles.
 
 ¡Que tengan una semana fantástica!
