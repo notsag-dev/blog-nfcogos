@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Actualizaciones de cultivo en Cogoland"
+title: "Actualización semanal: Revamp NFCogos & hash"
 date: 2024-05-20 07:00:00 -0300
 categories: posts
 ---
