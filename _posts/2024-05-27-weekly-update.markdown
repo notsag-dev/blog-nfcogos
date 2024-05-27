@@ -9,7 +9,7 @@ Esta semana se dedicó a seguir trabajando en la base de datos de cepas cannábi
 
 ## Base de datos de cepas
 
-Hace tiempo se venía planeando el agregado de información de cepas y bancos de semillas en Cogoland y NFCogos. Esta información es clave para tener una buena experiencia de consumo o cultivo, y tenerla disponible nos va a ayudar a tomar desiciones más informadas y compartir más data en comunidad que es la razón de ser de esta plataforma.
+Hace tiempo se venía planeando el agregado de información de cepas y bancos de semillas en Cogoland y NFCogos. Esta información es clave para tener una buena experiencia de consumo o cultivo, y tenerla disponible nos va a ayudar a tomar decisiones más informadas y compartir más data en comunidad que es la razón de ser de esta plataforma.
 
 Puede esperarse que esta semana se redondee la primera fase de la recopilación de datos, y se empiece a trabajar en cómo mostrar esa información en Cogoland.
 
