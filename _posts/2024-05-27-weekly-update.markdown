@@ -15,12 +15,12 @@ Puede esperarse que esta semana se redondee la primera fase de la recopilación 
 
 ## ¡Qué viaje! en NFCogos
 
-¿Sabías que tu cuerpo está hecho para el cannabis?
+¿Sabías que nuestro cuerpo está hecho para el cannabis?
 
-Tu cuerpo tiene un sistema especial llamado sistema endocannabinoide (SEC) que se lleva bárbaro con el cannabis. Este sistema es como una red interna que regula cosas cruciales como el sueño, el dolor, el apetito y el estado de ánimo.
+Nuestro cuerpo tiene un sistema especial llamado sistema endocannabinoide (SEC) que se lleva bárbaro con el cannabis. Este sistema es como una red interna que regula funciones cruciales como el sueño, el dolor, el apetito y el estado de ánimo.
 
 El SEC tiene dos tipos principales de receptores: CB1, ubicados en el cerebro, y CB2, en el sistema inmunológico. Nuestro cuerpo produce moléculas llamadas endocannabinoides, que son como llaves que encajan perfectamente en estos receptores. Los más conocidos son la anandamida y el 2-AG.
 
-Cuando consumes cannabis, los compuestos THC y CBD también interactúan con el SEC. El THC se une a los receptores CB1 y te da esa sensación de estar "re loco". En cambio, el CBD no te coloca, pero puede ayudar a calmar el dolor y la ansiedad.
+Al consumir cannabis, los compuestos THC y CBD también interactúan con el SEC. El THC se une a los receptores CB1 y te da esa sensación de estar "re loco". En cambio, el CBD no te coloca, pero puede ayudar a calmar el dolor y la ansiedad.
 
-Es impresionante cómo nuestro cuerpo está diseñado para interactuar con el cannabis. Así que la próxima vez que te fumes un fasito, recordá: tu cuerpo ya está preparado para aprovechar sus beneficios. ¡Tu SEC está trabajando para vos!
+Así que la próxima vez que te fumes uno, recordá: tu cuerpo está hecho para aprovechar sus beneficios, ¡incluso lo produce naturalmente!
