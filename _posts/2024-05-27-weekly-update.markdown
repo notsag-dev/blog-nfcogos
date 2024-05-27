@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: "
+title: "Actualización semanal: Cepas y sistema endocannabinoide"
 date: 2024-05-27 07:00:00 -0300
 categories: posts
 ---
