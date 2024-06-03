@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actualización semanal: Etiquetando genéticas en Cogoland y los hashashines"
-date: 2024-05-27 07:00:00 -0300
+date: 2024-06-03 07:00:00 -0300
 categories: posts
 ---
 
