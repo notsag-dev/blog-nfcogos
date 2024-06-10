@@ -5,7 +5,7 @@ date: 2024-06-10 07:00:00 -0300
 categories: posts
 ---
 
-La semana que pasó se dedicó al agregado de stickers de bancos de semillas y genéticas a las publicaciones de Cogoland, a ser publicado próximamente.
+La semana pasada se dedicó al agregado de stickers de bancos de semillas y genéticas a las publicaciones de Cogoland, a ser publicado próximamente.
 
 ## Stickers
 
