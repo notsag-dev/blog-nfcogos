@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Bancos, genéticas y tissue culture"
+title: "Actualización semanal: Stickers y la tenacidad de la planta"
 date: 2024-06-17 07:00:00 -0300
 categories: posts
 ---
