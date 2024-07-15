@@ -7,7 +7,7 @@ categories: posts
 
 Había que hacer correcciones que llevan tiempo y tienen poca visibilidad, y se están haciendo. Cogoland está en constante evolución, se agregan nuevas funcionalidades muy frecuentemente porque estamos en una versión temprana del proyecto. Pero acompañando el agregado de nuevas funcionalidades hay que tomarse tiempo para mejorar la calidad del proyecto en general: corrigiendo bugs y haciendo mejoras que van más por la ingeniería que por el marketing.
 
-Pronto se va a publicar una versión de la app con varios bugs corregidos, con mejoras en las sesiones de usuario y con retoques visuales para teléfonos con pantalla más pequeña y/o con tamaño de letra más grande.
+Pronto se publicará una nueva versión de la app con varios bugs corregidos, con mejoras en las sesiones de usuario y con retoques visuales.
 
 ## ¡Qué viaje! en NFCogos
 
