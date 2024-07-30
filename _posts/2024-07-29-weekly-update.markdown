@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualización semanal: Cannabis Olympics"
+title: "THC en los Juegos Olímpicos"
 date: 2024-07-29 07:00:00 -0300
 categories: posts
 ---
@@ -13,6 +13,6 @@ Dada esta prohibición, ha habido algunos casos de deportistas olímpicos de ren
 
 Michael Phelps: En 2009 se publicó una fotografía de Phelps dándose un bongazo, lo que llevó a una suspensión de tres meses por parte de la federación de natación de USA y la pérdida de un patrocinio con Kellogg's, a pesar de que el incidente no ocurrió durante los Juegos Olímpicos.
 
-Ross Rebagliati (Juegos Olímpicos de Invierno de 1998): Rebagliati dio positivo por THC después de ganar la medalla de oro en snowboard. Inicialmente se le retiró la medalla pero luego se la devolvió, ya que el cannabis no estaba explícitamente prohibido en ese momento.
+Ross Rebagliati (Juegos Olímpicos de Invierno de 1998): Rebagliati dio positivo por THC después de ganar la medalla de oro en snowboard. Inicialmente se le retiró la medalla pero luego se le devolvió, ya que el cannabis no estaba explícitamente prohibido en ese momento.
 
 Sha'Carri Richardson (Juegos Olímpicos de Tokio de 2021): Richardson fue suspendida por un mes después de dar positivo por THC, lo que la llevó a perderse los Juegos de Tokio. El incidente provocó un debate global sobre la relevancia de las prohibiciones de cannabis en el deporte.
