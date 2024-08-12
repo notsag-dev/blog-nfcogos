@@ -7,7 +7,7 @@ categories: posts
 
 Tal vez ya hayan escuchado hablar del suelo vivo, o living soil. Este método de cultivo sigue ganando popularidad por ser más amigable con el medio ambiente que otros métodos, ya que imita los procesos naturales de la tierra para alimentar a las plantas. Además, suele ser más económico y ofrece beneficios tanto para la salud de las plantas como, potencialmente, para quienes las consumen.
 
-Contraste con métodos de alimentación más "artificiales"
+Contraste con métodos de alimentación menos naturales
 
 A diferencia de los cultivos en sustratos estériles, como la fibra de coco, que requieren la adición constante de fertilizantes y que imponen una alimentación más artificial, el suelo vivo aprovecha el ciclo natural de los nutrientes. En este proceso, los microorganismos del suelo descomponen la materia orgánica, liberando los nutrientes para ser utilizados por las plantas.
 
