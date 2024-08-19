@@ -12,7 +12,7 @@ En la tercera edad, la calidad de vida es una prioridad. A medida que envejecemo
 
 Condiciones como la artritis, el dolor de espalda y la neuropatía son comunes en la tercera edad, y el dolor que provocan puede ser debilitante. El cannabis ha mostrado ser efectivo en la reducción de la inflamación y el dolor asociados con la artritis, permitiendo una mayor movilidad y calidad de vida. Para el dolor de espalda, los cannabinoides pueden ofrecer alivio al actuar sobre el sistema endocannabinoide, reduciendo la sensibilidad al dolor. En casos de neuropatía, que es el daño a los nervios causando dolor y hormigueo, el cannabis puede mejorar la función nerviosa y reducir el dolor cuando otros tratamientos fallan.
 
-Mejora de la Calidad de Vida
+## Mejora de la Calidad de Vida
 
 Más allá del alivio del dolor, el cannabis está ayudando a las personas mayores a mejorar su calidad de vida en general. Al aliviar el dolor, mejorar el sueño y reducir la ansiedad, el cannabis permite que los adultos mayores disfruten de sus actividades cotidianas con mayor comodidad y satisfacción. Para muchos, esto significa una vida más activa, con menos limitaciones físicas y emocionales.
 
