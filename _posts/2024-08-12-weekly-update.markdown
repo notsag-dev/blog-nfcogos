@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suelo vivo o living soil"
-date: 2024-07-29 07:00:00 -0300
+date: 2024-08-12 07:00:00 -0300
 categories: posts
 ---
 
