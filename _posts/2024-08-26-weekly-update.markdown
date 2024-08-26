@@ -13,7 +13,7 @@ El cannabis es conocido por alterar la forma en que percibimos nuestro entorno. 
 
 ### Aumento del pensamiento divergente
 
-El pensamiento divergente es una forma de pensar que se enfoca en generar múltiples soluciones a los problemas o desafíos. El cannabis puede aumentar nuestra capacidad para el pensamiento divergente, ayudándonos a generar ideas poco comunes o inesperadas, lo cual es clave para la creatividad.
+El pensamiento divergente es una forma de pensar mediante la que podemos generar múltiples soluciones a los problemas o desafíos que se nos presentan. El cannabis puede aumentar nuestra capacidad para el pensamiento divergente, ayudándonos a generar ideas poco comunes o inesperadas, lo cual es clave para la creatividad.
 
 ### Relajación y reducción de la autocrítica
 
@@ -25,4 +25,4 @@ El uso de cannabis puede facilitar una mayor conexión con la intuición y con l
 
 ### Conclusión
 
-Si bien el cannabis no es una solución mágica para la creatividad, su impacto en nuestra percepción, pensamiento y emociones puede ser un catalizador en el proceso artístico. Como siempre, es importante recordar que cada persona reacciona de manera diferente y que esto no aplica para todos.
+Aunque el cannabis no sea una solución mágica para la creatividad, su impacto en nuestra percepción, pensamiento y emociones puede ser un catalizador en el proceso artístico. Como siempre, es importante recordar que cada persona reacciona de manera diferente y que esto no aplica para todos.
