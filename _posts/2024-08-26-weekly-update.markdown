@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cannabis y el arte"
-date: 2024-08-19 07:00:00 -0300
+date: 2024-08-26 07:00:00 -0300
 categories: posts
 ---
 
