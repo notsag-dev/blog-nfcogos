@@ -9,7 +9,7 @@ categories: posts
 
 ### Alteración de la percepción
 
-El cannabis es conocido por alterar la forma en que percibimos nuestro entorno. Al consumirlo, podemos experimentar una distorsión en la percepción del tiempo, el espacio y los colores, lo que puede traducirse en una exploración artística más libre y sin restricciones.
+El cannabis es conocido por alterar la forma en que percibimos nuestro entorno. Al consumirlo, podemos experimentar una distorsión en la percepción del tiempo, el espacio, los colores y sonidos, lo que puede traducirse en una exploración artística más libre y sin restricciones.
 
 ### Aumento del pensamiento divergente
 
