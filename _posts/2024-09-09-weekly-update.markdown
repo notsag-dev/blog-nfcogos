@@ -13,7 +13,7 @@ Estos son 10 mitos de cultivo a evitar para tener plantas más saludables y mayo
 
 **Un clavo en el tallo aumenta la producción de resina:** Muchas técnicas se basan en provocar estrés controlado a las plantas. Clavar un clavo no es estrés controlado y probablemente solo las perjudique.
 
-**Orinar tus plantas es una buena forma de brindarles nitrógeno:** Al hacerlo, lo más probable es que termines quemándolas. Si decides intentarlo, la orina debe estar muy diluida en agua.
+**Orinar tus plantas es una buena forma de brindarles nitrógeno:** Al hacerlo, lo más probable es que termines quemándolas. Si lo ibas a hacer de cualquier manera, al menos diluye la orina en una proporción de 1:20 con agua.
 
 **Mayor tamaño de maceta significa mayor producción:** No siempre. En cultivos orgánicos es aconsejable, pero con fertilizantes no orgánicos, esto no necesariamente se traduce en mayor producción.
 
