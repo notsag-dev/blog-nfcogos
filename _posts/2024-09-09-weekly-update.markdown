@@ -9,7 +9,7 @@ Tanto si buscas tips de cultivo en internet como si llevas un tiempo plantando, 
 
 Estos son 10 mitos de cultivo a evitar para tener plantas más saludables y mayores producciones:
 
-**Más nutrientes significan mejores y más grandes cosechas:** En el cultivo, todo se trata del equilibrio. El exceso de nutrientes o fertilizantes puede quemar las plantas o incluso matarlas.
+**Más nutrientes significan mejores y más grandes cosechas:** En el cultivo todo se trata del equilibrio. El exceso de nutrientes o fertilizantes puede quemar las plantas o incluso matarlas.
 
 **Un clavo en el tallo aumenta la producción de resina:** Muchas técnicas se basan en provocar estrés controlado a las plantas. Clavar un clavo no es estrés controlado y probablemente solo las perjudique.
 
@@ -23,8 +23,8 @@ Estos son 10 mitos de cultivo a evitar para tener plantas más saludables y mayo
 
 **Regar tus plantas con jugo mejora su sabor:** Probablemente sea una mala idea. Existen abonos caseros y naturales que mejoran el sabor y olor de las flores, pero echarles jugo no es una estrategia adecuada.
 
-**Las defoliaciones son dañinas:** No necesariamente. Si se hacen de manera controlada y en el momento adecuado, pueden mejorar el flujo de aire y beneficiar a las plantas.
+**Las defoliaciones son dañinas:** No necesariamente. Si se hacen de manera controlada y en el momento adecuado, pueden mejorar el flujo de aire y la penetración de la luz.
 
 **Poner desechos orgánicos directamente en el sustrato aporta nutrientes:** Las plantas no pueden obtener nutrientes de desechos orgánicos sin que estos se descompongan primero. Es necesario compostarlos antes de usarlos.
 
-¡Y esto fue todo! Espero que saber sobre estos mitos te sirva para mejorar tus cultivos y tener plantas y cosechas más abundantes y sobre todo más saludables. Que tengas una excelente semana.
+¡Y esto fue todo! Espero que saber sobre estos mitos te sirva para mejorar tus cultivos y tener plantas y cosechas más abundantes y sobre todo más saludables ¡Que tengas una excelente semana!
