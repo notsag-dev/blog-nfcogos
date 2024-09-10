@@ -7,7 +7,7 @@ categories: posts
 
 Tanto si buscas tips de cultivo en internet como si llevas un tiempo plantando, seguramente te has topado con consejos que son más mitos que realidades. Incluso algunos pueden tener efectos positivos, pero por razones completamente distintas a las que te mencionan.
 
-Estos son 10 mitos de cultivo a evitar para tener plantas más saludables y mayores producciones:
+Estos son algunos mitos de cultivo a evitar para tener plantas más saludables y mayores producciones:
 
 **Más nutrientes significan mejores y más grandes cosechas:** En el cultivo todo se trata del equilibrio. El exceso de nutrientes o fertilizantes puede quemar las plantas o incluso matarlas.
 
@@ -27,4 +27,4 @@ Estos son 10 mitos de cultivo a evitar para tener plantas más saludables y mayo
 
 **Poner desechos orgánicos directamente en el sustrato aporta nutrientes:** Las plantas no pueden obtener nutrientes de desechos orgánicos sin que estos se descompongan primero. Es necesario compostarlos antes de usarlos.
 
-¡Y esto fue todo! Espero que saber sobre estos mitos te sirva para mejorar tus cultivos y tener plantas y cosechas más abundantes y sobre todo más saludables ¡Que tengas una excelente semana!
+¡Y eso fue todo! Espero que saber sobre estos mitos te sirva para mejorar tus cultivos y tener plantas y cosechas más abundantes y sobre todo más saludables ¡Que tengas una excelente semana!
