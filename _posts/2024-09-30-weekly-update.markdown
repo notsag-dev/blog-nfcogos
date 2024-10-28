@@ -18,4 +18,4 @@ categories: posts
 - Aceites y lubricantes con cannabis: Existen productos tópicos a base de cannabis diseñados específicamente para mejorar la lubricación y la sensación durante el sexo.
 - Cannabis y sexo tántrico: Algunos practicantes del sexo tántrico utilizan cannabis para profundizar la conexión espiritual y emocional durante las sesiones.
 
-Y eso fue todo, si aprendiste nuevos usos de la planta en este post, y no podés esperar para ponerlos en práctica 😉 compartilo con alguien a quien también le pueda interesar y guardalo para tenerlo como referencia. Que tengas una excelente semana.
+Y eso fue todo, si aprendiste nuevos usos de la planta en este post y no podés esperar para ponerlos en práctica 😉 compartilo con alguien a quien también le pueda interesar y guardalo para tenerlo como referencia. Que tengas una excelente semana.
