@@ -22,4 +22,4 @@ Estos son algunos resultados que nos pueden servir como referencia:
 
 Si sabés de alguien a quien estos datos le pueden servir no dudes en compartírselos. Hay más de 200 millones de personas en el mundo que usan opioides para combatir su dolor crónico y el cannabis podría tener un impacto gigante en mejorar su calidad de vida. ¡Sigamos militando la planta!
 
-¡Que tengan una excelente semana!
+¡Que tengas una excelente semana!
