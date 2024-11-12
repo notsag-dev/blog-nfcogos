@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'La planta para reducir el consumo de opiáceos'
+title: 'El cannabis para reducir el consumo de opiáceos'
 date: 2024-11-11 07:00:00 -0300
 categories: posts
 ---
