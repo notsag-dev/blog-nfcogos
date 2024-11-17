@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Técnicas para la producción cannabis'
+title: 'Técnicas de cultivo de cannabis'
 date: 2024-11-17 07:00:00 -0300
 categories: posts
 ---
