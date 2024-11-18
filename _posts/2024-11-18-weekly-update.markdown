@@ -20,7 +20,7 @@ Técnicas de cultivo:
 
 Técnicas de entrenamiento:
 
-- ✂️ Topping: Corte de la punta de una rama para estimular ramas laterales y multiplicar punteros.
+- ✂️ Poda apical (Topping): Corte de la punta de una rama para estimular ramas laterales y multiplicar punteros.
 - 🔀 FIM (F\*ck I Missed): Corte parcial de la punta para obtener múltiples brotes principales.
 - 🪢 LST (Entrenamiento de bajo estrés): Atado de ramas para controlar el crecimiento y estimular ramas laterales.
 - 💪 Super Cropping: Doblar ramas hasta provocarles una pequeña herida para fortalecerlas y obtener una mayor producción.
