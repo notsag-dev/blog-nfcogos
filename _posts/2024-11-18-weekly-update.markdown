@@ -26,6 +26,6 @@ Técnicas de entrenamiento:
 - 💪 Super Cropping: Doblar ramas hasta provocarles una pequeña herida para fortalecerlas y obtener una mayor producción.
 - 🍂 Defoliación: Eliminación de hojas para mejorar la penetración de luz y la circulación de aire.
 - 🌿 Main-lining: Creación de un tronco principal simétrico para lograr mayor uniformidad.
-- 🍭 Lollipopping: Eliminación de ramas inferiores para enfocar la energía en la parte superior.
+- 🍭 Poda Lollipop: Eliminación de ramas y hojas inferiores para enfocar la energía en la parte superior.
 
 Espero que esto sirva para incentivar tu curiosidad! Enviáselo a tu amigue grower 👨🏼‍🌾
