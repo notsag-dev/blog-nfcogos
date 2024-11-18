@@ -11,10 +11,10 @@ Por eso, hoy te traigo una serie de técnicas de cultivo para que tengas como re
 
 Técnicas de cultivo:
 
-- 🕸️ SCROG: Uso de una malla para guiar y sostener las ramas y controlar su altura.
+- 🕸️ SCROG: Uso de una malla para guiar, sostener y controlar la altura de las ramas.
 - 🌊 SOG (mar verde): Muchas plantas pequeñas en lugar de pocas plantas grandes.
 - 💧 Hidroponia: Cultivo en agua agregando nutrientes específicos.
-- 🌫️ Aeroponia: Raíces suspendidas en aire, alimentadas con neblina nutritiva.
+- 🌫️ Aeroponia: Raíces suspendidas en el aire, alimentadas con neblina nutritiva.
 - 🍃 Cultivo orgánico: Uso exclusivo de alimentos naturales para las plantas.
 - 🧪 Cultivo con sales minerales: Uso de fertilizantes químicos para un control preciso de los nutrientes.
 
